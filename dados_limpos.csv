@@ -1,0 +1,1001 @@
+nome_paciente,idade,sexo,tabagismo,descoloracao_dedos,estresse_mental,exposicao_poluicao,doenca_cronica,nivel_energia,fraqueza_imunologica,problema_respiratorio,consumo_alcool,desconforto_garganta,saturacao_oxigenio,aperto_peito,historico_familiar,historico_tabagismo_familiar,estresse_imunologico,doenca_pulmonar,peso_kg,altura_m,imc,risco_cancer_pulmao
+ana silva,54,feminino,0,0,baixo,baixa,1,alto,0,0,1,0,96.7,0,0,1,baixo,0,38.8,1.79,12.10948472269904,0
+mariana lima,38,masc,0,0,moderado,média,1,moderado,0,1,0,0,96.95772442588726,0,0,1,moderado,0,77.8,1.6,30.390624999999993,0
+tiago barbosa,50,masc,0,0,alto,média,0,alto,0,0,1,0,92.1,1,0,0,baixo,0,57.8,1.62,22.024081694863582,0
+carlos alves,56,masculino,0,0,baixo,baixa,1,alto,0,0,1,0,99.2,0,0,0,alto,0,83.4,1.64,31.008328375966695,0
+paula costa,18,outro,1,0,baixo,média,0,moderado,0,0,0,0,99.1,0,1,0,baixo,0,85.5,1.8,26.388888888888886,1
+mariana moura,67,masculino,0,0,baixo,baixa,0,moderado,0,1,0,0,97.4,0,1,0,alto,0,106.3,1.72,35.93158464034614,0
+luiza barbosa,21,masculino,1,1,moderado,média,1,moderado,0,0,1,0,96.9,0,0,0,moderado,0,66.0,1.82,19.925129815239703,0
+carlos gomes,41,outro,1,1,moderado,média,1,moderado,0,0,1,0,99.3,0,0,1,baixo,0,90.2,1.59,35.678968395237526,0
+ana rodrigues,51,fem,0,0,moderado,alta,0,moderado,0,1,1,0,99.0,0,1,1,moderado,1,80.6,1.59,31.88165025117677,1
+maria moura,37,outro,0,0,moderado,média,0,baixo,0,0,1,nan,94.2,0,0,0,moderado,0,74.0,1.94,19.66202572005527,0
+pedro moreira,33,feminino,0,0,alto,baixa,1,alto,0,0,0,0,98.2,0,0,0,baixo,0,88.7,1.71,30.33411990014022,0
+tiago costa,62,masculino,0,0,moderado,baixa,0,moderado,0,0,0,0,97.1,0,0,0,moderado,0,73.3,1.77,23.396852756232242,0
+mariana ferreira,80,feminino,1,0,baixo,baixa,0,moderado,0,0,0,0,92.3,0,1,1,moderado,0,98.5,1.77,31.440518369561744,1
+ana martins,41,feminino,1,1,alto,média,0,moderado,0,0,0,0,92.8,0,0,0,alto,0,109.8,1.79,34.26859336475141,1
+luiza rodrigues,54,fem,0,0,moderado,baixa,1,moderado,0,0,0,1,98.9,0,0,0,alto,0,75.0,1.71,25.64891761567662,0
+pedro freitas,39,feminino,0,0,baixo,alta,0,baixo,1,1,1,1,102.3,0,1,0,moderado,1,69.2,1.78,21.840676682237092,1
+luiza moura,59,feminino,1,0,moderado,média,0,moderado,0,0,0,0,98.6,0,0,0,moderado,0,78.2,1.78,24.681227117788158,0
+gabriel santos,44,masculino,0,0,moderado,média,0,moderado,0,0,0,0,95.5,0,1,0,baixo,0,92.6,1.69,32.42183396939883,0
+gabriel martins,36,feminino,1,0,baixo,média,0,baixo,1,0,0,nan,97.6,0,0,0,moderado,0,47.4,1.84,14.000472589792059,0
+tiago gomes,38,não declarado,1,0,moderado,média,0,alto,0,0,0,0,96.9,0,1,0,baixo,0,81.4,1.7,28.16608996539793,0
+gustavo moura,68,masculino,0,0,moderado,alta,1,moderado,0,0,0,0,99.4,0,0,0,baixo,0,49.3,1.73,16.472317818837915,0
+mariana moreira,58,outro,0,0,alto,baixa,1,moderado,0,0,1,0,100.7,0,0,0,moderado,0,54.1,1.65,19.87144168962351,0
+tiago martins,48,masculino,0,0,moderado,baixa,0,baixo,0,0,1,0,97.1,0,0,1,moderado,0,79.7,1.84,23.540879017013232,0
+andré araújo,33,masculino,1,0,moderado,média,0,baixo,1,0,0,0,96.3,0,0,0,moderado,0,102.4,1.58,41.01906745713828,0
+ana lima,24,outro,0,0,moderado,baixa,0,baixo,1,1,1,0,96.9,0,0,1,baixo,0,108.8,1.67,39.011796765749935,0
+carolina oliveira,36,não declarado,1,0,moderado,baixa,0,moderado,0,1,0,0,95.6,0,0,0,baixo,0,87.2,1.77,27.833636566759232,0
+andré ribeiro,26,masculino,0,0,baixo,baixa,0,alto,0,0,1,0,100.4,0,0,0,baixo,1,62.1,1.64,23.088935157644265,0
+ana moreira,62,feminino,0,0,moderado,média,0,moderado,0,0,0,0,98.6,0,0,0,moderado,0,68.2,1.66,24.74960081289012,0
+ana ferreira,48,não declarado,0,0,baixo,baixa,0,alto,0,0,1,0,94.9,0,0,0,baixo,0,69.5,1.61,26.812237182207472,0
+joão ribeiro,26,masculino,0,0,moderado,média,1,moderado,0,1,0,0,99.0,0,0,0,moderado,0,40.9,1.63,15.393880085814295,0
+andré souza,53,fem,0,0,baixo,média,0,moderado,0,0,1,0,95.5,0,0,0,moderado,0,73.9,1.79,23.06419899503761,0
+andré freitas,62,feminino,0,0,alto,baixa,0,alto,0,1,0,0,94.9,0,0,0,moderado,0,80.7,1.72,27.278258518117905,0
+luiza moreira,49,masculino,0,0,baixo,média,1,moderado,0,0,0,0,95.8,0,0,0,moderado,0,53.5,1.73,17.875639012329177,0
+carolina gomes,35,masc,0,0,moderado,média,0,baixo,0,0,0,0,91.2,0,0,1,moderado,0,101.9,1.65,37.428833792470165,0
+beatriz ferreira,48,feminino,0,0,baixo,baixa,0,baixo,0,0,0,0,99.7,0,0,0,moderado,0,61.1,1.69,21.392808375056898,0
+tiago oliveira,63,não declarado,0,1,moderado,baixa,0,baixo,0,1,0,0,96.95772442588726,0,1,0,baixo,0,69.4,1.65,25.491276400367315,1
+pedro moreira,44,masculino,0,0,moderado,média,1,baixo,0,0,0,nan,100.8,0,0,1,baixo,0,76.7,1.7,26.539792387543258,0
+larissa moreira,49,outro,1,0,baixo,baixa,0,moderado,0,0,0,0,96.7,0,0,0,baixo,1,82.9,1.59,32.791424389857994,0
+carlos moreira,38,feminino,0,0,moderado,baixa,0,moderado,0,0,0,0,93.5,0,0,0,moderado,0,110.3,1.76,35.608212809917354,0
+fernanda martins,29,feminino,1,1,alto,baixa,0,moderado,0,0,0,0,97.3,1,0,0,alto,0,103.0,1.79,32.14631253706189,0
+felipe nunes,39,feminino,1,0,baixo,média,0,moderado,0,0,0,0,97.1,0,0,0,alto,0,87.1,1.56,35.79059829059828,0
+mariana oliveira,43,feminino,1,0,moderado,média,0,baixo,0,0,0,0,97.6,0,0,1,alto,0,76.9,1.76,24.82567148760331,0
+tiago alves 43,55,masculino,0,0,baixo,baixa,0,alto,0,1,0,0,99.7,0,0,0,baixo,0,84.7,1.68,30.00992063492064,0
+mariana oliveira,41,feminino,0,1,moderado,baixa,1,baixo,0,0,0,nan,99.2,0,0,0,baixo,0,82.0,1.78,25.88057063502083,0
+pedro nunes,49,não declarado,0,0,alto,baixa,0,moderado,0,0,0,0,99.7,0,0,0,moderado,0,73.5,1.63,27.663818736121044,0
+carlos moreira,20,não declarado,0,0,alto,média,1,moderado,0,0,0,0,94.0,0,0,0,alto,0,82.3,1.92,22.325303819444443,0
+mariana araújo,39,feminino,1,0,alto,alta,0,baixo,0,0,0,0,100.0,0,0,0,moderado,0,65.4,1.71,22.365856160870017,1
+ana souza,55,feminino,0,0,moderado,baixa,0,moderado,0,1,1,0,99.7,0,0,0,moderado,0,70.7,1.79,22.065478605536658,0
+camila barbosa,56,masculino,0,0,moderado,média,0,moderado,0,0,1,nan,99.8,0,1,0,baixo,0,67.7,1.74,22.36094596379971,0
+ana santos,59,feminino,0,0,baixo,média,0,moderado,1,0,0,0,93.3,0,0,0,baixo,0,71.3,1.72,24.100865332612223,0
+ana alves,64,não declarado,1,0,alto,alta,0,baixo,0,1,1,0,93.2,0,0,0,moderado,0,59.6,1.68,21.11678004535148,1
+lucas barbosa,63,não declarado,1,0,baixo,baixa,0,moderado,0,0,0,0,100.3,0,0,0,baixo,1,59.2,1.83,17.67744632565917,1
+mariana oliveira,52,masc,0,0,moderado,média,1,baixo,0,0,0,0,98.1,0,0,0,moderado,0,66.9,1.7,23.148788927335644,0
+maria moreira,44,masc,1,0,moderado,média,0,moderado,0,0,1,0,96.9,0,0,0,baixo,0,78.2994918699187,1.78,24.712628414947197,0
+mariana pereira,44,não declarado,1,1,baixo,baixa,0,moderado,0,0,1,0,95.3,0,0,1,alto,1,105.2,1.73,35.149854656019244,1
+carlos martins,49,masculino,0,0,moderado,média,0,baixo,1,0,1,0,99.4,0,0,0,baixo,0,77.6,1.89,21.723915903810084,0
+gustavo silva,48,fem,1,0,baixo,baixa,0,moderado,0,0,0,0,97.3,0,0,0,baixo,0,54.6,1.88,15.448166591217747,0
+felipe ferreira,25,não declarado,0,0,baixo,média,0,moderado,0,0,0,0,95.6,0,0,1,alto,0,86.2,1.67,30.90824339345262,0
+lucas costa,42,masculino,0,0,moderado,baixa,0,baixo,0,0,1,1,94.2,0,0,0,moderado,0,87.7,1.57,35.579536695200616,0
+tiago moreira,59,feminino,0,0,moderado,média,0,baixo,1,0,1,0,100.1,0,1,1,moderado,0,79.2,1.52,34.279778393351805,0
+maria santos,60,masculino,0,0,moderado,média,1,baixo,0,0,1,0,97.9,0,1,0,moderado,0,86.2,1.62,32.845602804450536,0
+maria nunes,61,masculino,0,1,alto,média,0,baixo,0,0,0,0,97.8,0,0,1,alto,0,82.8,1.74,27.348394768133172,0
+pedro freitas,64,feminino,0,0,moderado,baixa,0,baixo,0,1,0,0,93.9,0,0,0,moderado,0,58.6,1.65,21.52433425160698,0
+gustavo souza,18,feminino,0,0,moderado,baixa,0,moderado,0,0,0,0,95.3,0,0,0,alto,1,89.4,1.73,29.87069397574259,0
+tiago freitas,37,masc,0,0,baixo,baixa,0,moderado,0,0,0,0,96.3,0,0,1,moderado,0,105.7,1.72,35.728772309356415,0
+camila dias,67,feminino,0,1,moderado,alta,0,moderado,0,0,1,0,96.8,0,0,0,baixo,0,67.2,1.78,21.20944325211463,0
+rafael costa,36,feminino,0,0,moderado,alta,0,baixo,1,0,0,0,102.4,0,0,0,moderado,0,84.2,1.63,31.69106853852234,0
+mariana ribeiro,52,fem,0,0,baixo,baixa,0,baixo,0,0,0,1,95.7,0,1,0,baixo,0,83.0,1.78,26.19618735008206,0
+felipe gomes,71,masc,0,1,moderado,alta,1,moderado,0,0,1,0,98.0,0,0,0,moderado,0,70.0,1.57,28.398718000730252,1
+joão moura,49,masc,0,0,moderado,baixa,0,moderado,0,1,0,0,100.1,0,1,0,moderado,0,61.4,1.51,26.9286434805491,0
+pedro moreira,49,fem,0,0,alto,média,0,moderado,1,0,1,0,96.8,0,0,0,moderado,0,115.0,1.67,41.23489547850407,0
+lucas rodrigues,42,feminino,1,1,baixo,alta,0,alto,0,0,0,0,94.5,0,0,0,moderado,0,74.8,1.83,22.335692316880166,1
+beatriz ferreira,39,fem,0,1,moderado,alta,0,moderado,0,0,0,0,96.2,0,0,0,baixo,0,96.1,1.7055828220858895,33.035262417025976,0
+carolina nunes 74,42,fem,1,0,baixo,média,0,baixo,0,0,0,0,97.0,0,1,0,moderado,0,77.6,1.62,29.568663313519274,1
+ana lima,28,masc,0,0,alto,alta,0,moderado,0,0,0,0,93.0,1,0,0,moderado,0,82.1,1.77,26.205751859299685,0
+paula lima,49,feminino,0,1,baixo,média,1,baixo,1,0,0,0,101.3,0,0,0,moderado,0,95.8,1.76,30.927169421487605,0
+gabriel costa,61,fem,0,0,baixo,baixa,0,moderado,0,0,1,0,95.1,0,0,0,moderado,0,89.2,1.75,29.1265306122449,0
+andré araújo,39,masculino,0,0,moderado,alta,0,baixo,0,0,0,0,93.8,0,0,0,alto,0,74.3,1.84,21.945888468809073,0
+pedro barbosa,50,masculino,0,0,baixo,baixa,1,moderado,0,0,0,0,93.8,0,0,0,moderado,0,105.2,1.76,33.961776859504134,0
+joão gomes,44,fem,1,0,alto,baixa,0,moderado,0,0,0,0,97.0,0,0,0,moderado,1,66.2,1.76,21.371384297520663,1
+luiza moura,58,outro,0,0,moderado,média,0,moderado,0,0,0,1,96.1,0,0,0,baixo,0,111.2,1.67,39.872351106170896,0
+paula silva,70,masculino,0,0,moderado,baixa,1,baixo,0,0,0,0,99.4,0,0,1,baixo,0,76.8,1.69,26.889814782395575,0
+paula santos,33,masculino,0,0,baixo,baixa,0,moderado,0,0,1,0,101.6,0,1,1,moderado,0,49.6,1.72,16.7658193618172,0
+camila lima,42,feminino,0,0,moderado,baixa,1,moderado,0,0,0,0,98.0,0,0,1,moderado,0,76.5,1.68,27.1045918367347,0
+maria rodrigues,60,feminino,0,0,baixo,baixa,1,baixo,0,1,0,0,95.0,0,0,1,moderado,0,88.5,1.71,30.26572278649841,0
+ana rodrigues,32,outro,0,0,alto,média,0,baixo,0,0,0,0,98.4,0,0,1,alto,0,80.6,1.67,28.900283265803722,0
+carolina lima,54,feminino,0,0,moderado,média,1,moderado,0,0,1,0,99.3,0,0,1,baixo,0,56.3,1.71,19.253787490167916,0
+luiza pereira,52,masculino,0,1,baixo,baixa,0,moderado,0,1,0,0,96.9,0,0,0,baixo,0,91.8,1.64,34.131469363474125,0
+luiza gomes,48,outro,1,0,moderado,baixa,0,alto,0,0,1,0,99.1,0,0,0,baixo,0,67.0,1.72,22.647376960519203,0
+mariana ribeiro,51,masc,0,0,baixo,alta,0,baixo,1,0,0,0,96.9,0,1,0,baixo,0,80.5,1.82,24.30262045646661,0
+gustavo santos,18,feminino,0,0,baixo,baixa,0,moderado,1,0,1,0,95.5,0,0,0,moderado,0,76.5,1.81,23.350935563627484,0
+carlos moura,64,feminino,1,0,alto,baixa,0,moderado,0,0,0,0,94.2,0,1,0,moderado,0,83.3,1.74,27.513542079534943,1
+mariana silva,57,outro,1,0,moderado,alta,0,moderado,0,1,0,1,101.7,0,0,0,alto,0,78.2994918699187,1.73,26.161746757298506,1
+gabriel ribeiro,60,fem,1,0,baixo,média,0,baixo,0,1,0,0,95.7,0,0,0,moderado,1,92.3,1.85,26.96859021183345,1
+beatriz nunes,48,feminino,1,0,moderado,baixa,1,alto,0,0,0,0,99.9,0,0,0,moderado,0,91.3,1.72,30.861276365603032,0
+joão souza,33,fem,0,0,baixo,baixa,0,alto,0,0,0,0,99.0,0,0,0,moderado,1,71.6,1.64,26.621058893515766,0
+luiza dias,26,fem,1,0,baixo,baixa,0,baixo,1,0,0,0,98.9,0,0,0,baixo,1,64.7,1.72,21.86992969172526,0
+maria souza,42,feminino,0,0,moderado,alta,0,moderado,0,0,0,0,95.4,1,0,1,baixo,1,102.2,1.78,32.25602827925767,0
+gabriel barbosa,45,masc,0,1,baixo,baixa,0,moderado,0,0,0,1,94.5,0,0,0,alto,0,78.2994918699187,1.63,29.470244220677746,0
+gustavo dias,85,masculino,1,0,moderado,baixa,0,moderado,0,0,0,0,95.8,0,0,0,moderado,0,82.3,1.72,27.819091400757166,1
+camila silva,66,feminino,0,0,baixo,baixa,0,baixo,0,0,1,1,92.8,0,0,0,baixo,0,94.7,1.59,37.458961275266006,0
+beatriz barbosa,74,feminino,1,0,baixo,média,0,moderado,1,1,0,0,95.8,1,0,0,baixo,0,88.5,1.67,31.7329413030227,1
+carolina gomes,46,masc,0,0,moderado,baixa,0,moderado,0,0,0,0,98.1,0,0,1,baixo,0,78.9,1.74,26.060245739199367,0
+fernanda nunes,45,outro,0,0,alto,média,0,moderado,0,0,1,0,102.8,0,0,0,alto,0,94.3,1.71,32.24923908211074,0
+gabriel martins,56,masculino,0,0,moderado,alta,0,alto,0,0,0,0,96.1,0,0,0,moderado,0,95.9,1.67,34.38631718598731,0
+carlos barbosa,64,outro,0,1,alto,baixa,0,moderado,0,1,0,0,96.5,0,0,1,baixo,0,68.6,1.7055828220858895,23.581883473548196,0
+luiza freitas,61,outro,1,1,moderado,média,0,baixo,0,0,0,0,98.3,0,0,1,moderado,1,53.4,1.55,22.226847034339226,1
+paula silva,48,feminino,1,1,moderado,média,0,baixo,1,0,0,0,98.5,0,0,0,moderado,0,74.0,1.52,32.029085872576175,0
+camila dias,67,feminino,1,0,moderado,baixa,0,moderado,1,0,1,0,93.7,0,0,0,moderado,0,66.9,1.78,21.114758237596263,1
+felipe moura,39,feminino,1,0,baixo,média,1,baixo,0,0,1,0,97.0,0,0,0,moderado,0,90.8,1.69,31.791603935436438,0
+andré araújo,18,masculino,0,0,baixo,baixa,0,moderado,0,0,0,0,96.7,0,1,0,moderado,1,84.1,1.69,29.445747697909738,0
+pedro ferreira,28,feminino,1,0,moderado,média,0,baixo,0,0,0,0,93.5,0,0,0,baixo,0,65.0,1.8,20.061728395061728,0
+pedro alves,43,feminino,0,1,baixo,média,0,moderado,1,0,0,1,98.5,0,0,0,moderado,0,76.8,1.7,26.574394463667822,0
+carlos lima,62,feminino,0,0,alto,baixa,1,moderado,0,1,0,1,95.2,0,0,0,baixo,0,80.5,1.7,27.85467128027682,0
+larissa freitas,44,masc,0,0,baixo,baixa,0,moderado,0,0,1,0,100.7,0,0,0,moderado,0,74.9,1.64,27.84800713860798,0
+felipe barbosa,53,feminino,1,0,moderado,baixa,0,moderado,0,0,0,0,100.5,0,0,1,baixo,1,65.5,1.89,18.33655272808712,1
+gustavo araújo,76,masculino,1,0,moderado,baixa,0,moderado,1,0,0,0,97.0,1,0,0,moderado,0,78.7,1.73,26.295566173276754,1
+joão souza,50,feminino,1,0,alto,alta,0,moderado,0,0,1,0,97.1,0,0,0,moderado,0,78.2994918699187,1.7055828220858895,26.916173371930864,1
+luiza nunes,30,feminino,0,0,moderado,baixa,0,baixo,0,0,1,0,98.5,0,0,0,baixo,0,57.8,1.56,23.7508218277449,0
+ana moura,64,não declarado,1,0,baixo,média,0,baixo,0,1,0,0,95.5,1,1,1,alto,0,79.6,1.75,25.991836734693877,1
+andré moreira,35,não declarado,0,0,alto,baixa,0,moderado,0,0,0,0,93.7,0,0,0,baixo,1,78.2,1.76,25.24535123966942,0
+carolina nunes,62,não declarado,0,0,alto,média,0,moderado,1,1,0,1,98.9,0,0,1,alto,0,78.2994918699187,1.6,30.585739011686986,0
+luiza araújo,57,feminino,0,0,moderado,baixa,0,moderado,0,0,0,0,94.1,0,0,0,baixo,0,69.0,1.72,23.323418063818284,0
+rafael nunes,55,feminino,1,0,moderado,baixa,0,moderado,1,0,0,0,97.3,0,0,0,moderado,0,81.5,1.74,26.919011758488573,0
+rafael moura,40,fem,0,0,alto,média,0,moderado,0,0,0,0,94.2,0,0,0,baixo,0,77.1,1.74,25.46571541815299,0
+mariana ribeiro,73,masc,0,0,moderado,média,0,baixo,0,0,0,0,97.1,0,0,0,baixo,0,78.2994918699187,1.72,26.466837435748616,0
+lucas lima,23,masculino,0,0,moderado,baixa,0,moderado,1,0,0,0,98.0,0,0,1,baixo,0,98.8,1.8,30.493827160493826,0
+carlos oliveira,43,feminino,1,0,alto,baixa,0,baixo,0,1,0,0,95.7,0,0,0,baixo,0,76.7,1.57,31.11688100937158,0
+paula moura,37,feminino,1,0,baixo,baixa,0,moderado,0,0,1,0,97.4,0,0,0,moderado,0,87.8,1.56,36.07823800131492,0
+camila martins,44,masculino,0,0,moderado,baixa,1,moderado,0,0,0,0,97.7,0,0,0,alto,0,77.6,1.68,27.49433106575964,0
+tiago martins,41,feminino,0,1,moderado,média,0,baixo,0,1,1,0,93.0,0,1,0,baixo,0,103.6,1.67,37.14726236150454,1
+fernanda martins,53,outro,0,0,moderado,baixa,0,moderado,0,0,1,0,98.1,0,0,0,baixo,0,82.6,1.76,26.665805785123965,0
+paula moreira,39,feminino,0,0,alto,baixa,0,moderado,0,1,0,0,101.3,1,0,0,baixo,0,104.2,1.61,40.199066394043435,0
+larissa alves,55,não declarado,0,0,moderado,baixa,0,moderado,0,0,0,0,94.4,0,0,0,baixo,0,76.1,1.73,25.426843529686924,0
+joão martins,44,outro,0,0,baixo,alta,0,moderado,0,0,0,0,94.9,0,0,1,moderado,0,79.7,1.7055828220858895,27.39761097437014,0
+luiza moura,44,masculino,0,0,baixo,média,0,baixo,1,0,1,0,98.1,0,0,0,moderado,0,106.1,1.74,35.04425947945567,0
+gustavo dias,52,masculino,0,0,moderado,baixa,0,baixo,0,0,0,0,99.3,0,0,0,baixo,0,77.3,1.63,29.094056983702814,0
+pedro barbosa,65,não declarado,0,0,moderado,baixa,0,moderado,0,0,0,0,97.3,0,0,0,alto,0,90.7,1.5,40.31111111111111,0
+luiza santos,64,feminino,0,0,moderado,baixa,0,moderado,0,1,0,0,96.95772442588726,0,0,0,baixo,0,74.9,1.89,20.968058005095045,0
+carlos moura,67,outro,0,0,moderado,baixa,0,moderado,0,0,1,0,98.0,0,0,0,moderado,0,80.9,1.78,25.533392248453477,0
+rafael barbosa,36,masc,0,0,baixo,baixa,0,moderado,0,1,0,0,95.4,0,0,0,baixo,0,79.5,1.7,27.508650519031146,0
+larissa silva,33,masculino,0,0,moderado,média,0,moderado,0,1,0,0,96.95772442588726,0,1,0,baixo,0,83.2,1.56,34.18803418803419,0
+beatriz alves,43,masculino,0,0,moderado,média,0,moderado,1,1,0,0,98.8,0,0,0,alto,0,76.5,1.65,28.099173553719012,0
+joão alves,22,masculino,0,0,baixo,média,0,moderado,1,0,0,0,98.6,0,0,0,moderado,0,72.7,1.84,21.47329867674858,0
+carolina lima,53,não declarado,1,0,alto,média,0,moderado,0,1,0,0,91.7,0,0,0,baixo,0,94.7,1.8,29.228395061728396,1
+ana dias,31,não declarado,0,0,moderado,média,1,baixo,0,0,0,0,97.9,0,0,0,moderado,0,81.6,1.6,31.874999999999993,0
+rafael rodrigues,41,masc,1,0,baixo,média,0,alto,0,0,0,0,96.6,0,0,0,moderado,0,82.3,1.71,28.145412263602477,0
+luiza ferreira,52,masculino,0,0,baixo,baixa,0,baixo,0,0,1,0,97.8,0,0,0,alto,0,91.1,1.64,33.87120761451517,0
+fernanda dias,37,outro,0,1,baixo,média,1,moderado,0,0,1,0,93.8,0,0,0,baixo,0,60.5,1.7,20.934256055363324,0
+gustavo costa,21,feminino,0,1,moderado,baixa,0,moderado,0,0,0,0,96.0,0,0,0,alto,0,77.3,1.57,31.360298592234976,0
+ana ferreira,61,masc,0,0,moderado,média,1,baixo,0,0,0,0,96.1,0,0,0,moderado,0,64.6,1.74,21.33703263310873,0
+tiago santos,54,outro,1,0,alto,média,1,moderado,0,0,1,0,95.9,0,0,1,moderado,0,84.1,1.7055828220858895,28.91015160532658,0
+beatriz oliveira,55,feminino,0,0,moderado,baixa,1,moderado,0,1,0,0,100.1,0,0,0,moderado,0,77.3,1.59,30.576322139155884,0
+joão barbosa,64,masc,1,1,baixo,baixa,0,moderado,0,0,0,1,96.1,1,0,0,moderado,0,77.3,1.66,28.051966903759617,1
+camila rodrigues,26,não declarado,1,0,moderado,baixa,0,baixo,0,0,0,0,98.9,0,0,1,baixo,0,101.0,1.71,34.54054238911118,0
+lucas barbosa,55,fem,1,0,moderado,baixa,0,alto,0,0,0,0,97.5,0,1,0,moderado,0,68.9,1.68,24.411848072562364,0
+carolina moreira,56,não declarado,1,0,baixo,média,1,alto,0,0,1,0,96.5,0,0,0,moderado,0,78.2994918699187,1.76,25.277470257592555,1
+camila dias,24,feminino,0,0,alto,baixa,0,moderado,0,0,0,0,93.1,0,1,0,moderado,0,49.3,1.69,17.261300374636743,0
+pedro ribeiro,60,feminino,0,0,moderado,alta,0,moderado,0,0,0,0,97.3,1,0,0,baixo,0,62.6,1.69,21.918000070025563,0
+felipe dias,53,outro,1,0,moderado,baixa,0,moderado,0,0,0,0,102.2,0,1,1,moderado,0,86.3,1.58,34.56978048389681,1
+gabriel silva,46,feminino,0,0,moderado,baixa,0,baixo,0,0,0,0,100.3,0,0,0,baixo,0,84.2,1.68,29.832766439909303,0
+luiza araújo,47,fem,0,0,moderado,alta,0,moderado,1,0,1,0,95.7,0,0,1,baixo,0,95.4,1.67,34.20703503173294,0
+gabriel ribeiro,43,fem,0,0,moderado,baixa,0,baixo,0,0,1,0,95.0,0,0,0,baixo,0,83.3,1.68,29.513888888888893,0
+paula silva,68,feminino,0,0,moderado,média,0,baixo,0,0,0,0,95.6,0,0,0,moderado,0,48.7,1.71,16.654697171779354,0
+pedro alves,46,não declarado,0,0,moderado,média,0,moderado,0,0,0,1,98.0,0,0,0,baixo,0,84.7,1.6,33.08593749999999,0
+paula alves,43,não declarado,0,0,alto,baixa,0,baixo,1,0,0,0,96.2,0,1,0,alto,0,85.4,1.67,30.621391946645634,0
+felipe silva,21,feminino,1,0,baixo,média,0,baixo,0,0,0,0,100.3,0,0,0,alto,0,68.5,1.71,23.42601142231798,0
+gustavo alves,56,feminino,0,0,moderado,baixa,0,baixo,0,0,1,0,95.6,0,0,0,moderado,0,97.9,1.73,32.71074877209396,0
+larissa moreira,31,outro,0,1,baixo,baixa,0,baixo,0,0,0,0,92.6,0,0,0,baixo,0,85.7,1.79,26.74698043132237,0
+paula gomes,67,não declarado,1,0,alto,baixa,0,alto,0,0,0,0,94.1,0,0,0,moderado,0,88.7,1.53,37.891409287026356,1
+rafael ferreira,51,masc,0,1,moderado,baixa,0,alto,0,0,0,0,100.2,0,1,1,alto,0,71.2,1.78,22.471910112359552,0
+carlos gomes,23,masculino,1,0,baixo,média,0,moderado,0,0,1,0,101.6,0,0,1,moderado,0,89.7,1.7055828220858895,30.835203317452965,0
+carlos costa,33,fem,0,0,baixo,média,0,baixo,0,0,0,0,101.8,1,1,0,baixo,0,62.0,1.67,22.230987127541326,0
+tiago nunes,49,masc,0,0,alto,baixa,1,moderado,0,0,0,0,97.4,1,0,0,moderado,0,64.8,1.67,23.234967191365772,0
+carlos ferreira,44,masculino,0,0,baixo,baixa,0,moderado,0,1,0,0,94.8,0,0,0,baixo,0,99.3,1.56,40.80374753451676,0
+fernanda silva,47,masculino,0,0,alto,média,0,moderado,0,0,0,0,97.7,0,0,0,baixo,0,94.5,1.8,29.166666666666664,0
+rafael santos,31,fem,1,0,moderado,média,0,baixo,0,0,1,0,98.1,0,0,1,baixo,0,95.7,1.91,26.232833529782628,0
+lucas araújo,75,masculino,1,0,moderado,alta,0,moderado,0,0,0,0,97.0,0,0,0,baixo,0,62.6,1.81,19.10808583376576,1
+tiago ferreira,57,não declarado,1,0,moderado,alta,0,baixo,0,0,1,0,96.7,0,0,0,moderado,0,74.8,1.79,23.34508910458475,1
+gabriel pereira,50,fem,0,0,moderado,média,0,moderado,0,1,0,0,98.3,0,0,1,moderado,0,81.2,1.79,25.342529883586657,0
+larissa souza,60,outro,0,0,baixo,baixa,0,moderado,1,0,0,0,97.3,0,1,0,moderado,0,67.4,1.78,21.27256659512688,0
+larissa oliveira,55,masculino,1,0,moderado,média,0,moderado,0,0,0,1,95.0,0,1,0,baixo,0,107.9,1.63,40.61123866159811,1
+lucas lima,29,fem,0,1,moderado,média,0,moderado,0,0,0,0,95.7,0,0,0,alto,0,57.8,1.75,18.8734693877551,0
+pedro alves,67,outro,0,0,moderado,baixa,0,baixo,0,0,0,1,98.4,0,0,0,baixo,0,78.3,1.59,30.971876112495547,0
+carolina freitas,50,feminino,0,1,baixo,baixa,0,moderado,0,1,0,0,99.6,0,1,1,baixo,0,53.4,1.71,18.262029342361753,0
+andré martins,43,não declarado,0,1,baixo,média,0,moderado,0,0,1,0,94.5,0,1,0,moderado,0,64.1,1.56,26.339579224194605,1
+fernanda dias,55,fem,0,0,baixo,baixa,0,moderado,0,0,0,0,101.8,0,0,0,alto,0,69.0,1.8,21.296296296296294,0
+tiago freitas,52,masc,1,0,baixo,baixa,0,moderado,0,0,1,0,97.7,0,0,1,alto,0,69.3,1.59,27.411890352438586,0
+carlos costa,68,masc,1,0,moderado,média,0,moderado,1,0,0,0,101.6,0,0,0,moderado,0,74.1,1.92,20.100911458333332,1
+luiza alves,22,masc,1,0,baixo,média,1,moderado,0,0,0,1,97.3,0,0,0,moderado,0,81.4,1.8,25.123456790123456,0
+luiza silva,52,não declarado,0,0,baixo,baixa,0,moderado,0,0,0,0,97.5,0,1,1,moderado,0,78.2994918699187,1.56,32.17434741531833,0
+fernanda santos,46,fem,0,0,moderado,alta,0,moderado,0,0,1,0,99.5,0,0,0,baixo,0,108.7,1.7,37.61245674740485,0
+felipe oliveira,29,fem,0,0,alto,baixa,0,moderado,0,0,0,0,96.0,0,0,0,baixo,0,67.7,1.54,28.546129195479846,0
+tiago costa,36,feminino,0,0,baixo,média,0,moderado,0,0,0,0,95.4,1,0,1,baixo,0,81.9,1.72,27.683883180097354,0
+lucas ribeiro,54,masc,0,0,baixo,média,0,moderado,1,0,0,0,94.9,0,0,0,moderado,0,90.3,1.66,32.76963274785891,0
+maria pereira,55,fem,1,1,moderado,baixa,0,moderado,0,0,0,0,96.1,0,0,0,moderado,0,86.0,1.78,27.143037495265748,0
+felipe souza,60,fem,0,0,moderado,alta,1,alto,0,0,0,0,96.2,0,0,0,baixo,0,78.4,1.68,27.777777777777786,0
+gustavo ribeiro,18,não declarado,0,0,moderado,baixa,0,baixo,1,0,0,0,99.4,0,0,1,moderado,0,60.0,1.49,27.025809648214047,0
+felipe oliveira,59,outro,0,1,baixo,baixa,0,baixo,0,0,0,0,96.7,0,1,0,alto,0,78.5,1.61,30.284325450407003,0
+gabriel freitas,46,masc,0,0,moderado,média,0,alto,0,1,0,0,95.9,0,0,0,moderado,0,81.4,1.7,28.16608996539793,0
+mariana dias,57,masculino,0,0,baixo,baixa,0,baixo,1,0,0,0,95.6,0,0,0,alto,0,67.2,1.67,24.095521531786726,0
+rafael dias,35,masculino,0,0,moderado,baixa,1,alto,0,0,0,1,95.8,0,0,0,baixo,0,78.1,1.67,28.003872494531894,0
+larissa nunes,45,fem,1,0,baixo,baixa,0,baixo,0,0,0,0,97.5,0,0,0,baixo,0,74.7,1.63,28.11547291956792,0
+luiza dias,46,não declarado,1,0,baixo,alta,1,moderado,1,0,0,0,98.0,0,0,1,baixo,0,95.7,1.74,31.60919540229885,0
+pedro araújo,34,feminino,0,0,baixo,baixa,0,baixo,0,0,0,0,96.0,0,0,0,moderado,0,73.1,1.77,23.333014140253436,0
+gabriel souza,49,feminino,1,0,baixo,baixa,0,baixo,0,1,0,0,95.6,0,0,1,alto,0,82.8,1.85,24.192841490138786,0
+camila araújo,32,outro,0,0,alto,média,0,alto,1,0,0,0,93.3,0,0,0,baixo,0,69.4,1.44,33.46836419753087,0
+paula santos,40,feminino,0,0,baixo,média,0,moderado,0,0,0,0,99.7,1,0,0,moderado,0,97.9,1.57,39.717635603878456,0
+rafael gomes,62,outro,0,0,alto,média,0,moderado,0,0,0,0,94.9,0,0,1,baixo,1,89.3,1.59,35.32296981923183,1
+andré silva,69,não declarado,0,0,moderado,baixa,0,baixo,0,1,0,0,98.6,0,0,0,alto,0,86.1,1.74,28.438367023384856,0
+camila santos,78,feminino,1,0,baixo,baixa,0,alto,0,0,0,0,98.4,0,0,0,baixo,0,72.5,1.64,26.95568114217728,0
+carolina araújo,68,masculino,0,0,alto,média,0,baixo,0,0,0,0,93.3,0,0,0,baixo,0,106.9,1.63,40.23486017539238,0
+carlos ribeiro,19,fem,0,1,moderado,baixa,0,baixo,0,0,0,1,97.1,0,0,0,baixo,0,66.6,1.69,23.318511256608662,0
+felipe araújo,70,feminino,1,0,baixo,baixa,1,moderado,1,1,0,0,97.1,0,0,1,moderado,0,50.2,1.77,16.0234926106802,1
+luiza ferreira,70,outro,1,0,moderado,baixa,0,moderado,0,0,1,0,99.0,0,0,0,baixo,0,80.9,1.7055828220858895,27.810122055540077,1
+pedro alves,67,masc,1,0,alto,média,1,moderado,0,0,0,0,92.9,0,0,1,baixo,0,80.8,1.73,26.997226770022383,1
+felipe souza,26,masculino,0,1,baixo,baixa,1,alto,0,1,1,0,96.6,0,0,1,baixo,0,79.2,1.71,27.085257002154513,0
+larissa ferreira,45,fem,0,0,alto,média,0,alto,0,0,0,0,97.4,0,0,0,moderado,1,55.5,1.63,20.88900598441793,0
+camila araújo,47,feminino,0,0,alto,baixa,0,baixo,0,0,0,0,97.6,0,0,0,baixo,0,58.9,1.69,20.62252722243619,0
+felipe moreira,71,feminino,0,0,moderado,média,1,moderado,0,1,0,0,99.5,0,0,0,moderado,0,83.7,1.73,27.966186641718735,0
+carolina nunes,40,masculino,0,0,baixo,média,0,alto,0,0,0,1,97.6,0,0,0,moderado,0,63.7,1.65,23.397612488521585,0
+pedro ribeiro,39,outro,0,0,baixo,alta,0,baixo,0,0,0,nan,95.8,1,1,0,baixo,0,70.8,1.73,23.655985833138427,0
+gabriel nunes,53,masculino,0,0,moderado,baixa,0,alto,0,0,0,0,97.7,0,0,0,alto,0,53.3,1.75,17.40408163265306,0
+fernanda ferreira,36,não declarado,1,0,moderado,baixa,0,baixo,0,0,0,0,96.95772442588726,0,0,1,moderado,0,78.7,1.75,25.697959183673472,0
+lucas moura,52,feminino,0,0,baixo,alta,0,moderado,0,0,0,0,92.5,0,0,0,baixo,0,72.1,1.6,28.164062499999993,0
+gabriel moreira,52,outro,0,0,baixo,baixa,0,moderado,1,0,0,0,100.4,0,0,0,baixo,0,81.5,1.79,25.43615992010237,0
+felipe gomes,61,feminino,1,0,alto,baixa,0,alto,0,0,0,0,96.3,0,0,0,baixo,1,54.4,1.59,21.51813614967762,1
+tiago martins,29,outro,0,0,baixo,média,0,moderado,1,0,1,0,91.7,0,0,0,baixo,0,55.7,1.68,19.734977324263042,0
+maria gomes,64,outro,0,0,baixo,baixa,0,moderado,0,0,0,0,93.2,0,0,0,baixo,1,60.9,1.62,23.205304069501594,1
+gustavo lima,67,masculino,0,1,moderado,baixa,0,moderado,0,0,0,0,94.4,0,0,0,moderado,0,88.2,1.6,34.45312499999999,0
+lucas nunes,24,feminino,0,0,moderado,alta,0,moderado,0,1,1,0,98.3,0,0,0,baixo,0,61.5,1.69,21.532859493715208,0
+ana moura,57,não declarado,0,0,moderado,média,0,moderado,0,0,1,0,98.5,0,0,0,moderado,0,92.9,1.76,29.990960743801654,0
+joão lima,18,masculino,1,0,alto,média,0,baixo,1,1,0,0,102.1,0,0,0,moderado,0,68.6,1.73,22.920912827023955,1
+pedro araújo,52,fem,1,0,moderado,média,0,alto,1,0,0,0,96.6,0,0,0,alto,0,76.3,1.67,27.358456739216177,0
+gabriel freitas,33,masc,0,0,baixo,média,1,alto,0,0,0,0,90.8,0,0,0,baixo,0,73.2,1.71,25.033343592900383,0
+gabriel moreira,36,feminino,0,0,baixo,baixa,0,alto,0,0,1,0,96.8,0,0,0,baixo,0,48.9,1.63,18.404907975460123,0
+larissa moreira,41,masc,1,1,moderado,média,1,baixo,0,0,0,0,95.8,0,0,1,moderado,0,101.4,1.75,33.11020408163265,0
+mariana ferreira,53,masc,0,0,moderado,baixa,1,moderado,0,0,0,0,95.0,0,1,0,alto,0,57.1,1.79,17.82091695015761,0
+camila souza,36,masc,1,0,alto,baixa,1,moderado,0,0,1,0,98.4,0,0,0,moderado,0,70.4,1.53,30.07390319962408,0
+felipe pereira,60,masculino,1,0,baixo,alta,1,moderado,0,0,0,0,92.1,0,0,0,baixo,0,75.3,1.62,28.692272519433008,1
+maria gomes,41,fem,0,0,moderado,média,0,moderado,1,0,0,0,99.7,0,0,1,moderado,0,61.6,1.77,19.662293721472118,0
+beatriz rodrigues,69,feminino,0,0,baixo,média,0,alto,0,0,0,0,96.95772442588726,1,0,0,moderado,0,91.1,1.61,35.14524902588634,0
+andré barbosa,40,masculino,0,0,moderado,baixa,1,alto,0,0,0,0,98.6,0,0,0,alto,0,72.1,1.73,24.09034715493334,0
+luiza pereira,44,outro,0,0,baixo,baixa,0,moderado,0,0,0,0,95.8,0,1,1,baixo,0,77.9,1.77,24.86514092374477,0
+carolina alves,41,masculino,0,1,baixo,média,0,moderado,0,0,0,0,94.3,0,0,0,moderado,0,67.0,1.64,24.910767400356935,0
+mariana moura,44,não declarado,0,0,baixo,baixa,0,moderado,0,1,0,0,99.6,0,0,0,moderado,0,68.0,1.63,25.59373706198954,0
+rafael silva,53,não declarado,0,0,baixo,média,0,alto,0,0,0,0,99.1,0,0,0,moderado,0,75.6,1.58,30.28360839609036,0
+fernanda moreira,79,não declarado,0,0,baixo,baixa,0,moderado,0,0,1,0,98.4,0,0,0,moderado,1,87.8,1.55,36.54526534859521,0
+beatriz dias,59,outro,0,0,moderado,alta,1,moderado,0,0,0,0,96.95772442588726,0,0,0,baixo,0,58.9,1.59,23.2981290297061,0
+rafael moura,54,feminino,0,1,moderado,baixa,0,moderado,0,0,0,0,95.7,0,0,0,alto,1,68.9,1.75,22.497959183673473,0
+gustavo araújo,81,outro,0,1,alto,baixa,1,baixo,0,0,0,0,100.0,1,0,0,moderado,1,78.5,1.88,22.210276143051157,1
+tiago rodrigues,49,fem,0,0,alto,média,1,moderado,0,0,0,0,96.7,0,0,0,baixo,0,65.0,1.71,22.229061933586404,0
+joão martins,44,masculino,0,0,moderado,baixa,0,moderado,0,0,0,0,96.0,0,0,1,alto,0,75.0,1.61,28.93406890166274,0
+carolina araújo,67,fem,0,0,alto,média,0,moderado,0,0,0,0,97.1,0,0,0,moderado,0,89.0,1.64,33.09042236763832,0
+mariana freitas,46,feminino,1,0,baixo,baixa,0,moderado,0,0,0,0,96.95772442588726,0,0,0,moderado,0,87.9,1.62,33.493369913123,0
+carlos freitas,28,masculino,0,1,alto,baixa,0,moderado,0,0,0,0,97.8,0,0,1,baixo,0,77.1,1.72,26.061384532179556,0
+ana santos,60,não declarado,1,0,baixo,alta,0,moderado,0,0,1,0,94.0,0,0,0,baixo,1,75.0,1.62,28.577960676726104,1
+maria dias,36,masculino,0,0,baixo,média,0,moderado,0,0,0,1,96.3,1,0,1,moderado,0,80.0,1.69,28.01022373166206,0
+pedro ferreira,46,outro,0,0,baixo,baixa,1,moderado,1,0,0,0,92.8,0,0,1,baixo,0,73.3,1.68,25.970804988662135,0
+luiza costa,37,feminino,1,0,moderado,média,0,moderado,0,0,0,0,96.0,0,0,0,alto,0,65.7,1.59,25.987896048415806,0
+andré nunes,24,masculino,0,0,baixo,baixa,0,baixo,0,0,1,0,94.2,0,0,1,alto,0,98.0,1.53,41.864240249476694,0
+rafael araújo,53,fem,0,0,alto,alta,1,moderado,0,0,0,0,99.5,0,0,1,moderado,0,94.4,1.5,41.955555555555556,0
+gabriel souza,48,masc,0,0,baixo,média,0,alto,1,0,0,0,100.1,0,0,0,baixo,0,100.9,1.73,33.71312105315914,0
+lucas alves,54,outro,0,0,baixo,alta,0,alto,0,0,1,0,96.8,0,0,0,moderado,0,62.9,1.51,27.5865093636244,0
+paula rodrigues,53,outro,0,0,baixo,alta,0,moderado,0,1,0,0,91.4,0,0,1,baixo,0,64.8,1.48,29.5836376917458,1
+joão ribeiro,25,não declarado,0,0,baixo,baixa,0,baixo,0,0,0,0,96.95772442588726,0,0,0,moderado,0,78.1,1.68,27.67148526077098,0
+beatriz ribeiro,18,feminino,0,0,baixo,baixa,0,moderado,0,0,0,0,102.1,0,0,0,baixo,0,81.5,1.78,25.722762277490215,0
+ana alves,60,feminino,0,0,moderado,baixa,0,moderado,0,0,0,0,102.1,0,0,0,moderado,0,83.1,1.68,29.443027210884356,0
+carolina alves,57,não declarado,1,0,alto,baixa,0,moderado,0,0,0,0,97.0,0,0,1,baixo,0,66.4,1.78,20.95694988006565,0
+fernanda barbosa,69,masculino,0,0,baixo,baixa,0,moderado,1,0,1,0,97.2,0,0,0,baixo,0,50.7,1.64,18.850386674598457,0
+maria ferreira,46,masc,1,0,alto,baixa,0,baixo,0,1,0,0,96.1,0,0,0,alto,0,78.5,1.77,25.056656771681187,0
+ana alves,80,masculino,1,0,moderado,alta,0,moderado,0,0,0,nan,96.2,0,0,1,baixo,1,88.3,1.64,32.830160618679365,1
+gustavo moura,50,outro,0,0,baixo,média,0,moderado,0,0,0,0,97.2,0,0,0,baixo,0,71.6,1.8,22.098765432098762,0
+tiago lima,59,masc,0,0,moderado,baixa,0,alto,0,0,1,0,94.1,0,0,0,baixo,0,76.6,1.7,26.505190311418687,0
+larissa freitas,37,fem,1,0,baixo,baixa,0,moderado,0,0,0,1,94.2,0,0,1,moderado,0,66.2,1.57,26.857073309262038,0
+maria rodrigues,51,não declarado,0,0,baixo,baixa,0,moderado,0,0,0,0,95.4,0,1,0,alto,0,113.7,1.77,36.29225318395097,0
+mariana rodrigues,49,feminino,0,0,alto,média,0,baixo,1,0,1,0,94.3,0,0,1,moderado,0,97.8,1.72,33.05840995132505,0
+paula rodrigues,37,fem,1,0,moderado,média,0,alto,0,1,0,0,101.2,0,0,0,baixo,0,90.3,1.74,29.82560443915973,0
+carlos souza,41,não declarado,1,0,baixo,baixa,0,moderado,0,0,0,0,93.3,0,0,1,baixo,0,68.9,1.77,21.992403204698523,0
+pedro costa,53,masculino,0,0,baixo,alta,0,moderado,1,0,0,0,93.0,0,0,0,moderado,0,102.3,1.74,33.78913991280222,0
+maria gomes,70,masculino,0,0,moderado,média,0,moderado,0,0,1,0,98.1,0,0,0,moderado,1,55.5,1.67,19.900319122234574,0
+tiago costa,74,feminino,1,0,baixo,alta,0,moderado,0,0,0,0,93.4,0,0,1,baixo,0,94.3,1.72,31.875338020551652,1
+tiago costa,54,feminino,0,0,baixo,baixa,0,moderado,0,0,0,0,92.6,0,0,0,alto,0,84.5,1.67,30.298684068987775,0
+gabriel lima,44,masculino,1,0,moderado,alta,1,moderado,0,0,0,0,94.0,0,0,0,alto,0,69.9,1.78,22.06160838277995,1
+rafael lima,47,fem,1,0,baixo,baixa,0,moderado,0,0,0,0,97.3,0,0,0,baixo,1,76.3,1.83,22.7836005852668,0
+luiza souza,45,masculino,0,0,alto,baixa,0,baixo,0,0,0,0,101.6,0,0,0,alto,0,98.3,1.56,40.392833662064426,0
+lucas silva,29,feminino,0,1,baixo,alta,0,moderado,1,0,0,0,91.6,0,0,1,alto,0,78.9,1.63,29.696262561631983,1
+tiago gomes 288,48,fem,1,0,baixo,alta,0,baixo,0,0,0,0,98.5,0,0,0,alto,0,69.4,1.59,27.451445749772557,1
+maria lima,45,masc,0,0,moderado,baixa,0,moderado,0,0,1,0,98.6,0,1,0,moderado,0,38.9,1.65,14.288337924701562,0
+pedro araújo,42,feminino,0,0,moderado,alta,1,baixo,0,0,1,0,94.2,0,0,0,baixo,1,62.5,1.68,22.144274376417236,0
+andré dias,20,feminino,0,0,moderado,baixa,0,moderado,0,0,0,1,96.9,0,0,0,baixo,0,87.3,1.51,38.287794394982676,0
+carolina santos,55,fem,0,0,baixo,média,0,moderado,0,0,0,1,96.7,0,0,0,moderado,0,80.5,1.58,32.24643486620733,0
+felipe silva,33,não declarado,1,1,alto,baixa,0,baixo,0,0,0,0,90.7,0,0,1,baixo,0,67.7,1.7055828220858895,23.272500162670745,1
+gustavo barbosa,38,não declarado,0,0,baixo,média,0,baixo,1,0,0,0,95.0,0,0,0,moderado,0,62.2,1.67,22.302699989243074,0
+felipe oliveira,65,feminino,1,0,moderado,média,0,moderado,0,0,0,0,96.5,0,1,0,moderado,0,89.6,1.7,31.00346020761246,1
+carolina lima,53,fem,0,0,moderado,média,0,baixo,0,1,0,0,96.4,0,0,0,moderado,1,57.8,1.7,20.0,1
+carolina dias,64,feminino,0,0,moderado,baixa,0,moderado,0,1,1,0,95.2,0,0,0,moderado,0,56.3,1.76,18.175361570247933,0
+gustavo freitas,70,não declarado,0,0,baixo,média,0,moderado,1,0,0,0,95.5,0,0,0,moderado,0,75.5,1.67,27.071605292409195,0
+andré freitas,34,masc,0,0,alto,média,0,baixo,0,1,0,0,98.2,0,0,0,baixo,0,98.0,1.75,32.0,0
+paula costa,49,feminino,0,0,moderado,média,0,moderado,0,0,1,0,100.3,0,0,0,moderado,0,98.7,1.64,36.69690660321238,0
+camila gomes,48,outro,1,0,moderado,média,0,alto,0,0,0,0,93.3,0,0,0,baixo,0,61.7,1.71,21.100509558496636,1
+camila souza,48,feminino,1,0,baixo,baixa,0,moderado,0,0,1,0,94.2,0,0,0,moderado,0,72.0,1.63,27.09925100681245,0
+rafael rodrigues,46,não declarado,1,0,baixo,média,0,moderado,0,0,0,0,98.5,0,0,1,moderado,0,79.9,1.67,28.64928824984761,0
+pedro oliveira,44,masc,0,0,moderado,baixa,1,moderado,0,0,1,nan,98.0,1,0,1,baixo,0,44.9,1.68,15.908446712018142,0
+camila souza,62,feminino,0,0,moderado,média,0,baixo,0,0,1,0,96.5,0,0,0,moderado,0,59.3,1.7,20.519031141868513,0
+lucas moreira,35,feminino,0,0,alto,baixa,0,moderado,0,0,1,0,97.8,0,0,0,baixo,0,79.6,1.67,28.54171895729499,0
+ana barbosa,74,outro,1,0,baixo,média,0,moderado,0,0,0,0,96.6,0,0,1,baixo,0,88.2,1.7,30.519031141868517,1
+maria ferreira,43,feminino,0,0,alto,baixa,1,moderado,0,0,0,0,92.8,0,0,0,moderado,0,95.7,1.71,32.72801887760337,0
+ana dias,63,masculino,1,0,baixo,baixa,0,moderado,0,1,0,0,96.95772442588726,0,0,0,baixo,1,105.9,1.61,40.854905289147794,1
+larissa alves,52,feminino,1,1,moderado,média,0,moderado,0,0,0,0,98.7,0,0,0,baixo,0,121.9,1.61,47.02750665483585,0
+paula rodrigues,56,fem,0,0,moderado,baixa,1,moderado,0,0,0,0,94.6,0,0,1,alto,0,66.8,1.62,25.453436976070716,0
+tiago alves,28,masculino,0,0,baixo,média,1,moderado,0,0,0,0,100.1,0,0,0,baixo,0,44.0,1.67,15.776829574384166,0
+carolina ribeiro,54,fem,0,0,moderado,baixa,0,moderado,0,0,0,1,99.5,0,0,0,baixo,0,39.5,1.69,13.830047967508142,0
+fernanda gomes,46,masculino,0,0,moderado,alta,1,baixo,0,0,0,0,97.2,0,0,1,moderado,0,51.7,1.62,19.699740893156527,0
+lucas dias,64,masc,1,0,moderado,baixa,0,moderado,0,0,0,0,98.0,0,0,0,baixo,1,73.6,1.66,26.709246625054433,1
+lucas silva,32,feminino,0,0,baixo,média,0,baixo,1,0,0,0,92.7,0,0,0,moderado,0,65.8,1.89,18.42053693905546,0
+gustavo barbosa,59,masculino,1,0,moderado,alta,0,baixo,0,1,0,nan,100.1,0,0,1,baixo,0,84.8,1.72,28.66414277988102,1
+beatriz ferreira,49,masc,0,0,moderado,média,1,baixo,0,0,0,0,94.4,0,0,1,alto,0,63.0,1.75,20.571428571428573,0
+maria lima,54,masculino,0,0,baixo,baixa,0,moderado,0,0,0,0,94.1,0,0,0,moderado,0,80.1,1.88,22.662969669533727,0
+pedro ribeiro,46,outro,0,0,alto,média,1,moderado,0,1,1,0,101.1,0,0,0,baixo,0,56.6,1.71,19.356383160630624,0
+larissa freitas,59,fem,0,0,moderado,média,1,moderado,0,0,0,0,99.0,0,0,0,baixo,0,92.9,1.71,31.77045928661811,0
+carlos nunes,80,outro,0,0,moderado,média,0,moderado,0,1,0,0,98.5,0,0,0,moderado,0,58.8,1.62,22.405121170553265,0
+ana ferreira,69,não declarado,0,0,baixo,baixa,0,moderado,1,0,1,0,97.8,0,0,0,alto,1,84.0,1.72,28.393726338561386,0
+andré ferreira,71,outro,1,1,moderado,baixa,0,alto,0,0,1,0,103.4,0,0,0,moderado,0,86.0,1.63,32.36854981369265,1
+carolina santos 325,45,fem,1,0,baixo,alta,0,baixo,0,1,0,0,94.4,0,0,0,baixo,0,78.5,1.86,22.690484449069253,1
+carlos lima,48,fem,0,0,baixo,alta,1,alto,0,0,0,1,96.95772442588726,0,0,0,moderado,0,66.4,1.62,25.301021185794845,0
+gabriel souza 327,58,outro,1,1,baixo,baixa,1,moderado,0,0,0,0,98.1,0,0,0,baixo,0,72.5,1.85,21.18334550766983,1
+luiza lima,29,feminino,0,0,moderado,média,0,moderado,0,0,0,1,96.0,0,0,0,moderado,0,94.2,1.6,36.79687499999999,0
+andré moreira,27,feminino,1,0,baixo,baixa,1,moderado,0,0,1,0,95.8,0,1,0,baixo,0,79.3,1.79,24.749539652320465,0
+pedro martins,78,masculino,0,0,moderado,baixa,0,moderado,0,0,0,0,92.3,0,0,0,moderado,0,85.8,1.67,30.764817670049123,0
+camila silva,52,masc,0,0,alto,baixa,0,baixo,1,0,0,0,96.1,0,0,0,moderado,0,87.9,1.66,31.898679053563658,0
+gabriel dias,55,outro,0,0,baixo,média,0,moderado,0,0,0,0,100.5,0,0,1,moderado,0,75.6,1.73,25.259781482842726,0
+camila ferreira,49,masculino,0,0,baixo,baixa,0,moderado,0,0,0,1,99.4,0,1,0,alto,0,62.4,1.74,20.610384462940942,0
+gabriel pereira,59,não declarado,0,0,baixo,média,0,moderado,0,0,0,0,99.3,0,0,0,baixo,0,72.8,1.65,26.740128558310378,0
+beatriz oliveira,61,masc,1,0,moderado,baixa,0,moderado,0,1,0,0,99.8,0,0,0,moderado,0,65.7,1.9,18.1994459833795,0
+mariana barbosa,28,masc,0,0,baixo,média,0,moderado,0,0,1,0,95.8,0,0,0,baixo,0,64.1,1.69,22.443191764994225,0
+gustavo ferreira,45,feminino,0,0,moderado,baixa,0,baixo,0,0,0,0,96.6,0,0,0,baixo,0,69.0,1.52,29.864958448753463,0
+gabriel pereira,60,masc,1,0,moderado,baixa,0,moderado,0,0,1,0,98.3,0,0,0,baixo,0,75.4,1.8,23.271604938271604,0
+andré nunes,76,feminino,0,0,baixo,baixa,0,moderado,0,0,0,0,93.4,0,0,0,moderado,0,92.6,1.62,35.28425544886449,0
+beatriz lima,35,masculino,0,0,baixo,baixa,0,alto,0,0,0,0,97.7,0,0,1,baixo,0,50.9,1.73,17.006916368739347,0
+rafael costa,54,masculino,0,0,moderado,média,1,alto,0,0,0,0,96.4,0,0,0,baixo,0,43.1,1.67,15.45412169672631,0
+pedro pereira,55,não declarado,0,0,baixo,média,0,baixo,0,1,1,1,95.8,0,1,0,baixo,0,44.2,1.73,14.768284941027098,1
+felipe dias,26,não declarado,0,0,moderado,baixa,0,moderado,0,0,0,0,94.5,0,1,0,baixo,0,46.9,1.79,14.637495708623327,0
+tiago freitas,56,feminino,1,0,alto,baixa,0,moderado,0,0,0,0,98.0,0,0,0,baixo,0,92.4,1.76,29.829545454545457,0
+lucas moura,47,não declarado,0,0,baixo,média,0,moderado,0,0,1,0,96.95772442588726,0,0,0,alto,0,86.5,1.7055828220858895,29.73517376766646,0
+fernanda ribeiro,66,feminino,0,0,baixo,baixa,0,moderado,0,0,0,0,93.1,1,0,0,alto,0,78.2994918699187,1.73,26.161746757298506,0
+andré oliveira,56,não declarado,0,0,baixo,média,0,moderado,0,0,1,0,98.2,0,0,0,moderado,0,54.7,1.84,16.156663516068054,0
+maria santos,32,fem,0,0,moderado,baixa,0,baixo,0,0,0,0,97.0,0,0,0,moderado,0,77.7,1.76,25.083935950413224,0
+pedro oliveira,46,outro,0,0,moderado,baixa,0,moderado,0,1,0,0,93.7,0,0,0,moderado,1,83.6,1.66,30.338220351284658,1
+felipe dias,43,masculino,0,0,baixo,baixa,0,moderado,0,0,0,0,100.9,0,0,0,moderado,0,91.7,1.74,30.28801691108469,0
+felipe dias,36,feminino,0,0,alto,média,0,moderado,0,0,0,0,97.5,0,0,0,moderado,0,78.9,1.55,32.840790842872,0
+carolina araújo,32,masculino,1,0,moderado,média,1,moderado,0,0,1,0,96.6,0,1,0,baixo,0,83.7,1.58,33.528280724242904,1
+felipe souza,42,feminino,0,0,baixo,baixa,0,moderado,0,0,0,0,96.9,0,0,0,baixo,0,87.8,1.69,30.74122054549911,0
+pedro nunes,51,masculino,0,0,moderado,alta,0,moderado,0,0,1,0,96.8,0,0,1,alto,0,81.6,1.7055828220858895,28.050753519555872,0
+mariana moura,61,masculino,1,0,baixo,baixa,0,baixo,0,0,1,nan,98.9,0,0,1,baixo,0,61.3,1.61,23.648778982292345,0
+beatriz rodrigues,58,outro,1,0,moderado,média,0,moderado,0,0,0,0,97.4,0,0,0,baixo,0,71.8,1.7,24.844290657439448,0
+camila gomes,68,masculino,0,0,baixo,alta,0,alto,0,0,0,0,97.7,0,0,0,baixo,0,81.8,1.64,30.413444378346227,0
+gabriel oliveira,67,outro,0,0,alto,média,0,moderado,0,0,0,0,98.2,0,0,0,baixo,0,63.7,1.75,20.8,0
+fernanda ribeiro,44,masculino,0,0,alto,média,0,moderado,0,1,0,0,97.9,0,0,0,baixo,0,63.7,1.86,18.41253324083709,0
+gabriel oliveira,71,masculino,1,0,alto,baixa,0,alto,1,0,0,0,96.95772442588726,0,1,1,alto,0,96.0,1.7,33.21799307958478,1
+beatriz ferreira,61,outro,0,0,baixo,baixa,0,moderado,0,0,0,0,94.2,0,0,0,baixo,0,46.9,1.54,19.775678866587956,0
+lucas freitas,28,masc,0,0,moderado,média,0,baixo,0,0,0,1,95.9,0,0,0,moderado,0,89.2,1.65,32.764003673094585,0
+fernanda moreira,45,feminino,1,0,moderado,baixa,1,moderado,0,0,0,0,96.95772442588726,0,1,0,baixo,0,59.3,1.78,18.716071203130916,1
+lucas nunes,36,outro,0,0,moderado,baixa,0,moderado,0,0,0,1,103.2,0,0,0,moderado,0,107.0,1.72,36.168199026500815,0
+andré rodrigues 365,40,fem,0,0,moderado,baixa,0,moderado,0,0,0,0,93.7,0,0,0,baixo,1,103.4,1.84,30.541115311909262,0
+luiza costa,31,não declarado,1,0,baixo,média,0,moderado,0,0,0,0,97.0,0,0,0,baixo,0,92.2,1.7,31.903114186851216,0
+carlos alves,31,masculino,1,0,moderado,baixa,0,baixo,0,0,0,0,96.1,0,0,0,moderado,0,70.6,1.4,36.02040816326531,0
+pedro ferreira,41,masc,0,0,moderado,baixa,0,moderado,0,0,0,0,101.3,0,0,0,baixo,0,71.6,1.58,28.6813010735459,0
+andré moreira,22,masculino,0,0,baixo,alta,1,baixo,0,0,0,0,99.7,0,0,0,moderado,0,88.4,1.7,30.588235294117652,0
+gabriel freitas,49,outro,0,0,alto,baixa,0,alto,0,0,1,0,95.5,0,1,0,moderado,0,106.7,1.8,32.932098765432094,0
+lucas pereira,69,masculino,0,0,alto,baixa,0,baixo,0,1,1,0,92.1,0,0,0,moderado,1,92.9,1.65,34.12304866850322,1
+felipe santos,44,feminino,0,0,moderado,baixa,1,moderado,0,1,0,0,95.8,0,0,0,moderado,0,98.2,1.83,29.323061303711665,0
+felipe freitas,43,não declarado,1,0,moderado,média,0,moderado,0,1,0,0,98.0,0,0,0,baixo,0,77.2,1.72,26.095186587344514,1
+mariana moreira,38,não declarado,0,0,baixo,baixa,0,alto,0,0,0,0,97.6,0,0,0,baixo,0,78.2,1.69,27.379993697699664,0
+carlos rodrigues,62,não declarado,1,0,moderado,baixa,0,moderado,0,0,0,1,97.8,0,0,0,baixo,0,49.1,1.76,15.850981404958679,0
+felipe ferreira,66,outro,0,1,moderado,baixa,0,moderado,0,0,1,0,100.5,0,0,0,baixo,0,78.8,1.78,24.870597146824895,0
+luiza costa,57,masculino,0,0,baixo,baixa,1,baixo,0,1,1,0,92.7,1,0,0,alto,0,80.6,1.53,34.43120167456961,0
+rafael santos,21,feminino,0,0,moderado,baixa,0,baixo,0,0,1,0,94.7,0,0,0,moderado,1,98.1,1.53,41.90695886197616,0
+paula souza,46,masc,0,0,alto,baixa,0,baixo,0,0,0,0,96.5,0,0,0,moderado,1,71.0,1.84,20.97117202268431,0
+fernanda oliveira,59,fem,1,0,moderado,baixa,0,moderado,0,0,0,0,99.3,0,0,1,moderado,0,94.3,1.7,32.62975778546713,0
+felipe nunes,67,outro,0,0,baixo,baixa,1,moderado,0,0,0,0,97.9,0,0,0,moderado,0,109.3,1.66,39.66468282769633,0
+pedro alves,70,feminino,0,0,moderado,média,0,moderado,0,0,0,0,98.9,0,0,1,alto,0,69.1,1.84,20.409971644612472,0
+joão barbosa,45,feminino,1,0,baixo,baixa,0,moderado,0,0,0,0,104.8,0,0,0,moderado,0,69.9,1.63,26.308856185780424,0
+mariana martins,45,feminino,1,0,moderado,média,1,moderado,0,1,0,0,96.1,0,0,1,alto,0,88.8,1.86,25.66770724939299,1
+mariana silva,75,masc,0,0,alto,alta,1,moderado,1,0,0,0,97.0,0,0,1,moderado,0,85.2,1.67,30.549679084943886,0
+gabriel lima,45,fem,1,0,moderado,média,0,baixo,1,0,0,0,101.3,0,0,0,moderado,0,33.7,1.64,12.529744199881026,0
+larissa lima,36,não declarado,0,0,baixo,baixa,0,baixo,0,0,0,0,94.4,0,1,0,baixo,0,62.9,1.6,24.570312499999996,0
+felipe freitas 388,30,masc,0,1,baixo,baixa,0,moderado,1,0,0,0,94.6,0,0,0,moderado,0,113.5,1.83,33.891725641255334,0
+joão ribeiro,47,masculino,0,0,moderado,baixa,0,moderado,0,0,0,0,92.7,0,0,0,baixo,0,99.8,1.59,39.47628653929828,0
+paula freitas,30,masc,0,0,baixo,baixa,0,moderado,0,0,0,0,96.3,0,0,0,baixo,0,85.1,1.88,24.077636939791763,0
+fernanda alves,56,masculino,0,0,baixo,baixa,0,baixo,1,0,0,0,98.0,0,0,0,moderado,0,68.7,1.62,26.17741197988111,0
+mariana barbosa,67,não declarado,1,1,alto,baixa,0,moderado,0,0,0,1,98.0,0,0,0,moderado,0,74.6,1.74,24.639978861144137,1
+pedro souza,58,não declarado,0,1,baixo,baixa,0,baixo,0,0,0,0,94.7,0,0,0,moderado,0,59.6,1.7,20.622837370242216,0
+carolina moreira 394,50,feminino,1,0,moderado,alta,0,moderado,0,0,0,0,95.3,0,0,0,moderado,0,62.0,1.79,19.350207546580943,1
+lucas ferreira,39,feminino,0,1,alto,média,0,moderado,0,0,1,0,96.95772442588726,0,0,0,alto,0,97.3,1.6,38.00781249999999,0
+mariana dias,48,masc,0,0,moderado,alta,0,alto,0,0,0,0,96.95772442588726,0,1,0,moderado,0,81.8,1.77,26.109993935331477,0
+andré rodrigues,39,masculino,0,0,moderado,baixa,0,moderado,0,0,0,0,97.0,0,0,0,moderado,1,55.0,1.77,17.555619394171533,0
+gustavo araújo,60,outro,1,0,moderado,média,0,moderado,0,0,0,1,100.7,0,0,1,alto,0,93.2,1.66,33.82203512846567,0
+beatriz ribeiro,49,feminino,1,0,baixo,baixa,0,baixo,0,1,0,0,95.9,0,0,0,moderado,0,106.9,1.7,36.98961937716263,0
+pedro rodrigues,18,masc,0,0,alto,baixa,0,moderado,1,1,1,0,98.6,0,0,0,baixo,0,83.4,1.55,34.71383975026014,0
+tiago gomes,42,feminino,0,0,moderado,baixa,0,moderado,0,0,0,0,93.9,0,0,1,moderado,0,79.9,1.67,28.64928824984761,0
+paula gomes,60,masculino,1,0,baixo,alta,0,moderado,0,0,1,0,99.6,0,0,0,baixo,0,92.9,1.72,31.402109248242297,1
+felipe araújo,52,masculino,1,0,alto,baixa,0,baixo,0,0,0,0,95.2,0,0,0,moderado,0,68.3,1.62,26.024996189605236,0
+pedro moura,57,feminino,1,0,moderado,média,0,moderado,1,0,0,1,97.2,0,0,0,moderado,0,61.5,1.67,22.05170497328696,0
+maria costa,19,feminino,0,1,baixo,média,0,moderado,0,0,0,0,97.2,0,0,0,moderado,0,55.2,1.73,18.443649971599452,0
+fernanda nunes,57,não declarado,0,0,baixo,baixa,0,moderado,0,0,0,0,94.7,0,0,0,baixo,0,86.0,1.63,32.36854981369265,0
+rafael santos,41,feminino,1,0,baixo,média,0,moderado,0,0,0,1,98.4,0,0,1,baixo,0,61.0,1.78,19.252619618735007,0
+fernanda rodrigues,45,masculino,1,0,moderado,baixa,0,baixo,0,0,0,0,98.4,0,0,0,alto,0,97.5,1.76,31.475981404958677,0
+gabriel ribeiro,43,feminino,0,0,moderado,alta,0,moderado,0,0,0,0,93.9,0,0,1,baixo,0,72.8,1.7,25.190311418685123,0
+camila martins,33,outro,0,0,baixo,baixa,0,moderado,0,0,0,0,101.5,0,1,0,baixo,0,78.8,1.71,26.9484627748709,0
+gabriel pereira,66,não declarado,0,0,moderado,média,0,moderado,0,0,0,0,98.8,0,0,1,baixo,0,90.3,1.62,34.40786465477823,0
+beatriz nunes,39,masc,0,0,baixo,média,0,moderado,0,1,0,nan,97.9,0,1,0,baixo,0,79.1,1.81,24.144562131803056,0
+camila oliveira,29,masculino,0,0,baixo,média,0,baixo,0,1,1,0,96.2,0,0,0,moderado,0,88.8,1.73,29.67021951952955,0
+paula ferreira,61,masc,1,0,moderado,média,1,baixo,0,1,0,0,99.3,0,0,1,baixo,1,87.6,1.68,31.037414965986397,1
+gabriel ferreira,44,outro,1,0,baixo,alta,0,moderado,0,1,0,0,96.1,0,0,0,baixo,0,77.0,1.61,29.705644072373747,1
+luiza moura,30,masculino,1,0,baixo,média,0,moderado,0,0,0,0,99.4,0,0,0,moderado,0,100.9,1.87,28.854127941891388,0
+beatriz freitas,39,fem,0,0,baixo,alta,0,baixo,0,0,0,0,97.8,0,0,0,moderado,0,49.6,1.76,16.01239669421488,0
+maria oliveira,43,outro,0,0,alto,alta,0,moderado,0,0,0,0,92.0,0,0,0,baixo,0,89.6,1.77,28.599699958504896,0
+beatriz nunes,43,masculino,1,0,baixo,baixa,1,baixo,0,1,0,0,97.0,0,0,0,moderado,1,82.5,1.77,26.3334290912573,1
+joão lima,42,não declarado,0,0,moderado,baixa,1,moderado,0,0,0,0,95.7,0,0,0,moderado,0,48.4,1.73,16.17160613451836,0
+maria lima,53,feminino,0,0,moderado,alta,0,moderado,0,0,0,0,94.6,0,0,1,alto,0,107.6,1.76,34.736570247933884,0
+beatriz martins,68,masculino,1,0,baixo,baixa,0,moderado,0,0,0,0,95.8,0,0,0,alto,0,63.2,1.77,20.173002649302564,0
+carolina lima,46,feminino,1,0,baixo,média,1,moderado,1,0,0,0,101.7,0,0,0,moderado,0,87.2,1.7055828220858895,29.97580523168226,0
+beatriz moura,60,masculino,0,1,moderado,alta,0,moderado,0,0,0,0,101.8,0,0,0,baixo,1,72.3,1.82,21.82707402487622,1
+andré rodrigues,77,fem,0,0,alto,baixa,0,moderado,0,0,0,0,99.4,0,0,1,baixo,0,106.9,1.6,41.75781249999999,0
+mariana souza,68,masculino,0,0,alto,baixa,1,moderado,0,1,0,0,93.7,0,0,0,baixo,0,58.6,1.71,20.040354297048665,0
+larissa nunes,40,masc,1,0,alto,baixa,1,moderado,0,0,0,0,98.2,0,1,0,moderado,0,105.2,1.74,34.74699431893249,0
+rafael ribeiro,60,feminino,0,0,moderado,média,0,moderado,0,0,1,nan,96.0,0,0,0,baixo,0,62.2,1.78,19.631359676808483,0
+carolina ferreira,48,não declarado,0,0,moderado,média,0,alto,0,1,0,0,103.6,0,0,0,moderado,0,112.8,1.67,40.44605399978486,0
+carlos souza,57,masc,0,0,baixo,baixa,1,moderado,0,0,1,0,96.5,0,0,0,alto,0,91.2,1.61,35.183827784421894,0
+felipe pereira,51,não declarado,0,0,moderado,baixa,0,moderado,0,1,1,0,101.6,0,0,0,alto,0,65.6,1.71,22.434253274511818,0
+pedro gomes,22,masc,0,0,moderado,baixa,0,alto,0,0,0,0,94.5,0,0,0,baixo,0,66.7,1.69,23.353524036273242,0
+paula moreira,41,fem,0,0,baixo,alta,0,moderado,0,0,1,0,99.8,0,0,0,moderado,0,73.3,1.68,25.970804988662135,0
+luiza pereira,77,feminino,0,1,moderado,média,0,moderado,0,0,0,0,98.5,0,0,1,baixo,0,61.8,1.73,20.648868989942862,0
+ana costa,40,feminino,0,0,baixo,baixa,0,moderado,0,0,0,0,97.6,0,0,1,baixo,0,91.4,1.69,32.00168061342391,0
+larissa silva,66,feminino,0,0,alto,baixa,0,moderado,0,0,0,0,96.95772442588726,0,0,0,moderado,0,67.4,1.58,26.998878384874217,0
+felipe moreira,42,masc,0,0,moderado,média,0,alto,0,1,0,nan,94.4,0,1,0,baixo,0,93.5,1.77,29.844552970091605,1
+pedro ferreira,50,não declarado,0,0,baixo,baixa,1,moderado,0,0,0,0,98.5,1,1,1,moderado,0,73.2,1.82,22.098780340538582,0
+andré barbosa,50,masc,0,0,moderado,baixa,0,moderado,0,0,0,0,94.4,0,0,0,moderado,0,79.9,1.65,29.348025711662082,0
+lucas gomes,34,não declarado,0,0,moderado,alta,0,alto,0,0,1,0,96.9,0,0,0,moderado,0,75.6,1.68,26.78571428571429,0
+felipe nunes,50,masculino,0,0,baixo,baixa,0,alto,0,0,1,0,98.8,0,0,0,moderado,0,70.1,1.68,24.83701814058957,0
+lucas barbosa,30,masculino,1,0,moderado,média,0,baixo,0,0,1,0,101.4,0,0,0,moderado,0,86.5,1.73,28.90173410404624,0
+ana nunes,51,masculino,0,0,baixo,baixa,0,moderado,0,0,0,0,90.9,0,0,0,moderado,0,65.6,1.76,21.17768595041322,0
+luiza gomes,59,feminino,1,0,alto,baixa,0,baixo,1,0,0,0,99.1,0,0,0,moderado,0,87.4,1.68,30.966553287981867,0
+beatriz nunes,39,masc,0,0,moderado,baixa,1,baixo,0,1,0,0,96.9,0,0,1,moderado,0,60.0,1.74,19.817677368212443,0
+rafael costa,41,fem,1,0,baixo,média,0,moderado,1,0,1,0,101.2,0,0,0,moderado,0,74.5,1.58,29.842973882390638,0
+lucas ferreira,57,masc,0,0,moderado,baixa,0,moderado,0,1,0,0,102.5,1,0,0,baixo,0,83.1,1.76,26.827221074380166,0
+andré pereira,28,masculino,0,0,moderado,baixa,0,moderado,0,0,1,0,100.4,0,0,0,moderado,0,73.2,1.7,25.328719723183394,0
+luiza freitas,53,feminino,1,0,baixo,média,1,moderado,0,0,0,0,94.5,0,0,0,moderado,0,69.1,1.7055828220858895,23.75376309070234,1
+tiago santos,58,masculino,1,0,moderado,alta,0,moderado,1,0,1,0,98.6,0,0,0,moderado,0,70.6,1.61,27.236603526098524,1
+pedro santos,62,fem,1,0,alto,baixa,0,moderado,0,0,0,0,95.9,0,0,0,moderado,0,63.7,1.76,20.564307851239672,0
+carlos dias,53,masculino,0,1,alto,alta,0,baixo,0,0,0,0,95.2,0,0,0,moderado,0,76.6,1.8,23.64197530864197,0
+larissa moreira,60,fem,0,1,moderado,baixa,0,moderado,0,0,0,0,97.5,0,0,0,baixo,0,65.0,1.7,22.49134948096886,0
+larissa alves,39,outro,0,0,baixo,alta,0,moderado,0,1,0,0,96.5,0,0,0,moderado,0,76.6,1.68,27.140022675736965,0
+fernanda moura,41,masculino,0,0,baixo,baixa,1,moderado,0,0,0,0,99.6,0,0,0,moderado,0,61.0,1.75,19.918367346938776,0
+luiza moura,82,não declarado,1,0,moderado,baixa,1,moderado,0,0,0,nan,96.7,0,0,0,baixo,0,58.1,1.67,20.832586324357276,0
+carlos gomes,69,feminino,0,0,baixo,média,1,alto,0,0,1,0,99.9,0,1,0,alto,0,85.6,1.86,24.74274482599144,0
+gabriel rodrigues,59,masculino,1,0,moderado,média,0,moderado,0,0,0,0,96.3,0,0,0,moderado,0,89.9,1.85,26.26734842951059,0
+beatriz nunes,53,feminino,0,0,moderado,baixa,0,moderado,0,0,0,0,99.0,0,0,0,baixo,1,80.2,1.74,26.48962874884397,0
+mariana moura,51,não declarado,1,0,alto,média,0,moderado,0,0,1,0,97.2,0,0,0,baixo,0,101.9,1.65,37.428833792470165,1
+mariana lima,72,fem,0,0,baixo,média,1,moderado,0,0,1,0,98.7,0,0,0,baixo,0,92.4,1.77,29.493440582208176,0
+gustavo freitas,49,masculino,0,0,alto,baixa,1,moderado,0,0,0,0,91.8,0,0,0,baixo,0,66.7,1.84,19.70108695652174,0
+gabriel dias,46,feminino,0,0,moderado,média,0,alto,0,0,0,0,96.3,0,1,0,moderado,0,96.8,1.82,29.223523729018233,0
+luiza araújo,70,não declarado,0,0,baixo,baixa,0,baixo,0,0,0,0,97.5,0,0,0,baixo,0,59.9,1.72,20.247431043807467,0
+larissa ferreira,57,masc,1,0,moderado,baixa,0,alto,1,0,0,0,95.2,0,0,0,baixo,0,60.5,1.77,19.311181333588685,0
+gustavo nunes,37,feminino,1,0,baixo,média,0,alto,0,0,0,0,97.1,0,0,1,moderado,0,83.7,1.82,25.268687356599443,0
+carlos dias,60,masculino,0,0,baixo,média,1,moderado,0,0,0,0,93.6,0,0,0,moderado,0,78.7,1.71,26.91426421805,0
+fernanda araújo,61,não declarado,1,0,baixo,baixa,0,moderado,0,1,0,0,100.2,0,0,0,moderado,0,71.6,1.55,29.80228928199791,1
+fernanda moreira 469,48,masc,0,0,moderado,baixa,0,alto,0,0,1,nan,93.6,0,0,0,alto,0,86.3,1.73,28.834909285308562,0
+camila lima,59,feminino,1,0,baixo,média,0,moderado,0,0,1,0,96.4,0,0,1,moderado,0,71.6,1.63,26.94869961233016,0
+gustavo rodrigues,35,masculino,0,1,alto,baixa,0,moderado,0,0,0,0,94.9,0,0,1,baixo,0,83.7,1.62,31.893004115226333,0
+tiago moreira,54,fem,1,0,moderado,baixa,0,alto,0,0,0,nan,95.1,0,0,0,baixo,1,75.8,1.73,25.326606301580405,1
+pedro martins,45,fem,0,0,baixo,média,0,baixo,0,0,0,0,97.5,0,0,0,alto,0,73.9,1.7055828220858895,25.403807415382097,0
+carolina freitas,66,masc,1,0,alto,média,0,moderado,0,0,0,0,98.1,0,0,0,baixo,0,73.4,1.82,22.159159521796884,1
+gustavo rodrigues,38,feminino,0,0,moderado,média,0,moderado,1,0,0,0,95.5,1,0,0,moderado,0,90.5,1.63,34.06225300161843,0
+paula rodrigues,62,feminino,0,0,moderado,baixa,0,moderado,0,1,0,1,96.7,0,0,0,alto,0,80.8,1.84,23.86578449905482,0
+carolina nunes,41,masculino,1,0,baixo,baixa,0,moderado,0,0,0,0,99.7,0,0,0,moderado,0,55.4,1.72,18.726338561384534,0
+maria santos,44,feminino,0,0,moderado,baixa,0,alto,1,0,0,0,96.9,0,0,1,moderado,0,76.5,1.7,26.47058823529412,0
+larissa nunes,35,masculino,0,0,baixo,média,0,moderado,0,0,1,0,98.4,0,0,0,moderado,0,67.8,1.55,28.220603537981265,0
+gabriel freitas,26,outro,0,0,alto,média,0,moderado,0,0,1,0,95.3,0,1,0,alto,0,89.0,1.82,26.86873565994445,0
+carolina ferreira,69,não declarado,1,0,moderado,média,0,baixo,0,1,0,0,98.1,0,0,0,moderado,0,80.8,1.68,28.628117913832202,1
+tiago ferreira,49,masculino,0,0,moderado,média,0,moderado,0,0,0,0,96.95772442588726,0,0,0,alto,0,68.8,1.77,21.960483896709118,0
+beatriz gomes,41,outro,1,0,moderado,baixa,0,alto,0,0,1,0,92.7,0,0,0,moderado,0,73.4,1.88,20.76731552738796,0
+tiago ferreira,49,masculino,1,0,moderado,baixa,0,alto,0,0,0,0,100.6,0,1,0,alto,0,75.4,1.69,26.399635867091494,0
+carolina araújo,46,feminino,0,0,alto,alta,0,alto,0,0,0,nan,101.0,0,0,0,moderado,0,63.9,1.78,20.167908092412574,0
+maria dias,41,outro,0,1,baixo,alta,0,alto,0,0,0,0,99.8,0,0,0,moderado,0,96.1,1.72,32.48377501352083,0
+lucas alves,52,masc,1,0,baixo,média,0,baixo,0,0,0,0,96.5,0,0,1,moderado,0,58.6,1.78,18.495139502588057,1
+carlos silva,41,outro,0,0,baixo,baixa,0,baixo,0,1,0,0,91.9,0,0,0,alto,0,65.9,1.85,19.254930606281956,0
+lucas barbosa,36,outro,1,0,moderado,média,0,moderado,0,0,1,0,94.3,0,0,0,moderado,0,91.0,1.83,27.173101615455817,0
+andré freitas,22,masculino,0,0,baixo,baixa,1,baixo,1,0,0,0,95.5,0,0,0,moderado,0,78.3,1.78,24.71278878929428,0
+lucas nunes,75,feminino,1,1,baixo,baixa,1,baixo,0,0,0,0,94.5,0,0,0,moderado,0,103.9,1.74,34.317611309287884,1
+larissa nunes,24,masculino,0,0,baixo,alta,0,moderado,0,0,0,0,101.7,0,0,0,baixo,0,71.3,1.66,25.874582668021485,0
+felipe moreira,36,feminino,0,0,moderado,média,0,moderado,0,0,1,nan,99.7,0,0,0,alto,0,80.9,1.62,30.826093583295226,0
+rafael freitas,61,feminino,0,0,baixo,alta,0,moderado,0,0,0,0,97.6,0,0,1,moderado,0,78.2994918699187,1.77,24.992655964096745,0
+rafael moreira,42,fem,1,1,moderado,média,0,moderado,0,0,0,0,96.95772442588726,0,0,0,alto,0,69.5,1.66,25.221367397300046,0
+fernanda costa,55,não declarado,0,0,baixo,baixa,0,moderado,0,1,0,nan,92.5,0,1,0,moderado,0,93.4,1.77,29.812633662102204,1
+gabriel araújo,50,fem,1,0,alto,alta,0,alto,0,0,0,0,98.8,0,0,0,alto,1,77.6,1.66,28.160836115546523,1
+fernanda souza,42,outro,1,0,moderado,baixa,0,baixo,0,0,0,0,94.2,0,0,0,moderado,0,79.6,1.68,28.202947845804992,0
+gustavo rodrigues,60,masculino,0,0,baixo,baixa,0,moderado,0,1,0,0,97.1,0,0,0,moderado,0,75.6,1.8,23.33333333333333,0
+fernanda santos,48,masc,1,0,moderado,baixa,1,moderado,0,1,1,0,96.6,1,0,1,alto,0,75.4,1.74,24.904214559386975,1
+beatriz moura,58,não declarado,0,0,moderado,alta,0,moderado,0,0,1,0,97.1,0,0,1,baixo,0,94.6,1.72,31.976744186046513,0
+carlos costa,24,fem,0,0,baixo,média,0,alto,0,0,0,0,102.2,0,0,0,moderado,0,70.8,1.72,23.931855056787455,0
+paula ribeiro,35,feminino,0,0,moderado,média,0,moderado,0,0,0,0,94.0,0,0,0,moderado,0,71.9,1.52,31.12015235457064,0
+mariana santos,45,feminino,0,1,moderado,média,0,baixo,0,1,0,0,97.6,0,0,0,baixo,0,60.2,1.74,19.883736292773154,0
+mariana santos,26,feminino,0,0,baixo,média,0,moderado,0,0,1,0,95.5,0,0,0,baixo,0,86.8,1.76,28.02169421487603,0
+larissa souza,45,masculino,0,0,moderado,média,0,moderado,1,1,0,nan,97.8,0,1,0,moderado,0,63.2,1.75,20.636734693877553,0
+joão moreira,42,masculino,0,0,baixo,média,0,moderado,1,1,0,0,95.6,0,0,0,baixo,0,93.1,1.73,31.10695312238965,0
+camila araújo,45,feminino,0,0,baixo,baixa,0,moderado,0,1,0,0,97.2,0,0,0,moderado,0,79.9,1.76,25.794163223140497,0
+fernanda gomes,62,masculino,0,0,baixo,média,1,baixo,0,0,0,0,94.1,0,0,0,alto,0,71.2,1.44,34.336419753086425,0
+pedro dias,68,masculino,0,0,baixo,média,0,moderado,0,1,1,0,96.8,0,0,0,baixo,0,94.9,1.76,30.636621900826448,0
+luiza barbosa,56,masculino,0,0,alto,baixa,0,baixo,0,0,1,0,92.4,0,1,0,baixo,0,63.0,1.81,19.230182228869694,0
+maria martins,44,masculino,0,0,moderado,baixa,0,moderado,0,1,1,0,90.9,0,0,0,baixo,0,116.0,1.68,41.09977324263039,0
+fernanda santos 513,64,masc,0,0,moderado,alta,1,moderado,0,0,0,0,93.3,0,0,0,baixo,1,77.0,1.74,25.43268595587264,1
+gabriel ferreira,56,não declarado,1,0,baixo,média,0,alto,0,0,1,0,98.6,0,0,1,moderado,0,97.0,1.59,38.36873541394723,0
+lucas nunes,60,feminino,1,0,moderado,baixa,0,moderado,0,0,0,0,98.0,0,1,0,baixo,0,57.9,1.62,22.062185642432553,1
+ana gomes,54,não declarado,0,1,moderado,média,0,moderado,0,0,0,0,96.4,0,0,0,alto,0,84.0,1.71,28.726787729557817,0
+rafael pereira 517,32,feminino,0,0,moderado,média,0,moderado,0,1,1,0,97.8,0,0,0,alto,0,99.4,1.73,33.21193491262655,0
+fernanda dias,75,feminino,0,0,moderado,baixa,0,alto,1,0,0,nan,96.1,0,0,0,baixo,0,83.8,1.8,25.864197530864196,0
+luiza freitas,49,outro,0,0,alto,média,1,moderado,0,1,1,0,97.0,0,0,1,moderado,0,67.2,1.79,20.973128179519993,0
+camila nunes,69,outro,0,0,baixo,média,0,baixo,0,0,1,0,99.0,0,0,1,moderado,0,68.4,1.69,23.948741290571064,0
+ana pereira,35,não declarado,1,0,moderado,média,0,moderado,0,1,1,0,96.0,0,0,0,alto,0,71.9,1.77,22.949982444380606,1
+gabriel alves 522,31,outro,0,0,moderado,baixa,0,moderado,0,1,0,1,90.8,1,0,1,baixo,0,75.9,1.67,27.215031015812688,1
+mariana moura,42,feminino,1,0,alto,baixa,0,baixo,0,0,0,0,96.5,0,0,0,moderado,0,107.4,1.73,35.88492766213372,0
+fernanda dias,59,masculino,0,0,moderado,média,1,moderado,0,0,0,0,94.2,0,0,0,baixo,0,65.5,1.68,23.207199546485263,0
+rafael rodrigues,38,masculino,1,0,alto,média,0,moderado,0,0,1,1,94.9,0,0,0,moderado,0,40.8,1.52,17.65927977839335,0
+ana moura,43,outro,1,0,baixo,alta,0,baixo,0,0,0,nan,98.4,0,0,0,baixo,0,88.3,1.68,31.28543083900227,1
+andré ferreira,48,fem,0,0,moderado,média,0,moderado,0,0,0,0,95.2,0,0,1,baixo,0,75.1,1.77,23.97140030004149,0
+beatriz freitas,58,masculino,1,0,moderado,baixa,0,moderado,0,0,0,0,94.8,0,0,1,baixo,1,69.0,1.71,23.59700420642249,1
+larissa lima,36,feminino,0,0,baixo,baixa,0,alto,0,0,0,0,99.0,0,0,0,moderado,0,62.2,1.73,20.782518627418224,0
+camila moreira,60,feminino,0,0,alto,baixa,0,moderado,0,0,1,0,95.0,0,0,1,baixo,0,74.1,1.71,25.341130604288498,0
+mariana freitas,54,masc,0,0,moderado,baixa,0,moderado,0,0,0,0,97.5,0,0,0,moderado,0,72.2,1.94,19.183760229567437,0
+andré moura,38,feminino,0,1,baixo,baixa,1,moderado,0,0,0,0,98.4,0,0,0,moderado,0,82.1,1.84,24.249763705103966,0
+pedro dias,58,feminino,1,0,moderado,baixa,1,alto,0,0,0,0,100.8,0,0,0,moderado,1,77.5,1.73,25.89461726085068,0
+tiago moreira,46,feminino,0,0,moderado,média,0,moderado,1,0,1,0,98.4,0,0,0,moderado,0,88.5,1.7055828220858895,30.422692236283027,0
+andré moura,54,feminino,1,0,baixo,média,0,baixo,0,1,0,0,90.2,0,0,0,moderado,0,87.4,1.72,29.542996214169825,1
+tiago araújo,28,não declarado,1,0,baixo,alta,0,baixo,0,0,0,0,102.6,0,0,0,moderado,0,55.6,1.68,19.699546485260775,0
+maria moura,69,outro,0,0,moderado,média,0,alto,0,1,0,0,97.3,0,0,0,baixo,0,81.6,1.82,24.634705953387268,0
+felipe dias,51,não declarado,0,0,moderado,baixa,0,moderado,1,0,0,0,96.7,1,0,0,baixo,0,82.1,1.79,25.623419993133798,0
+fernanda silva,54,masculino,0,0,moderado,baixa,0,moderado,1,0,0,0,97.1,0,0,0,baixo,0,112.1,1.73,37.45531090246917,0
+carlos dias,65,outro,0,0,baixo,baixa,0,moderado,0,1,0,0,93.8,0,0,0,alto,1,95.4,1.68,33.801020408163275,1
+beatriz oliveira,41,masculino,1,0,moderado,média,0,baixo,0,0,0,0,98.3,0,0,1,baixo,0,65.9,1.75,21.518367346938778,0
+pedro araújo,47,outro,1,0,moderado,baixa,1,moderado,0,0,0,0,96.5,1,0,1,alto,0,72.5,1.66,26.31005951516911,0
+luiza lima,49,outro,0,0,moderado,alta,0,alto,0,0,0,1,98.0,1,0,1,baixo,0,62.2,1.53,26.570976974667865,0
+beatriz martins,76,outro,0,0,moderado,alta,0,moderado,0,0,0,0,94.9,0,0,0,alto,0,79.5,1.65,29.20110192837466,0
+gustavo oliveira,38,masculino,1,0,baixo,média,0,moderado,0,0,0,0,99.3,0,0,0,moderado,0,92.8,1.74,30.65134099616858,0
+beatriz souza,33,outro,1,0,alto,média,0,baixo,0,0,1,0,98.9,0,0,1,baixo,0,68.2,1.61,26.31071332124532,0
+andré lima,58,feminino,0,0,baixo,média,1,moderado,0,0,0,0,96.95772442588726,0,0,0,baixo,1,63.8,1.71,21.818679251735578,0
+joão silva,56,não declarado,1,0,moderado,média,0,alto,1,0,1,0,94.3,0,0,1,baixo,0,80.2,1.75,26.187755102040818,1
+paula barbosa,45,feminino,0,0,moderado,média,0,baixo,0,1,0,0,96.6,0,0,0,moderado,0,71.3,1.75,23.281632653061223,0
+mariana moura,35,fem,1,0,baixo,média,0,baixo,0,0,0,0,96.8,0,1,0,moderado,0,78.0,1.7055828220858895,26.813220276046057,0
+carlos souza,65,outro,0,0,moderado,média,1,alto,0,0,1,0,97.5,1,0,0,moderado,0,63.0,1.53,26.91272587466359,0
+carolina silva,41,masc,0,0,baixo,baixa,0,moderado,1,0,0,0,93.4,0,0,0,baixo,0,84.8,1.63,31.916895630245776,0
+ana freitas,40,masculino,0,0,baixo,baixa,0,moderado,1,0,1,0,103.6,0,0,0,moderado,0,75.3,1.72,25.452947539210385,0
+mariana santos,53,feminino,0,0,alto,média,1,moderado,0,0,0,0,92.2,0,0,0,moderado,0,61.7,1.64,22.940214158239147,0
+paula costa,27,masculino,0,0,moderado,média,0,alto,0,0,0,0,97.2,0,0,0,baixo,0,93.1,1.7,32.21453287197232,0
+lucas nunes,75,feminino,1,0,baixo,baixa,0,baixo,0,0,0,0,95.4,0,0,0,baixo,0,94.5,1.59,37.37985048059807,1
+tiago gomes,48,feminino,0,0,alto,média,1,moderado,1,0,0,0,90.0,0,0,0,baixo,0,61.6,1.74,20.34614876469811,0
+mariana ferreira,37,feminino,0,0,alto,média,0,baixo,0,0,0,0,102.5,0,0,1,moderado,0,75.2,1.66,27.289882421251274,0
+camila ferreira,32,masculino,1,1,alto,média,0,moderado,0,0,0,0,104.0,0,0,1,baixo,1,65.9,1.69,23.073421798956623,1
+camila moreira,55,feminino,0,0,moderado,baixa,0,moderado,0,1,0,0,95.8,0,0,0,baixo,0,75.0,1.8,23.148148148148145,0
+gustavo nunes,53,outro,0,0,moderado,baixa,0,moderado,0,0,0,0,96.3,1,1,0,baixo,0,70.7,1.6,27.617187499999996,0
+camila lima,41,masculino,0,0,moderado,baixa,0,moderado,1,1,0,0,98.5,0,0,1,moderado,1,107.5,1.73,35.918340071502556,0
+paula araújo,42,feminino,0,0,alto,baixa,0,moderado,0,0,1,1,92.8,0,0,0,moderado,0,75.9,1.93,20.376385943246802,0
+fernanda lima,25,masculino,0,0,baixo,baixa,0,baixo,0,0,0,0,103.1,0,0,1,alto,0,54.3,1.62,20.690443529949697,0
+paula barbosa,40,masculino,0,0,baixo,alta,0,moderado,0,0,0,0,99.2,0,0,0,baixo,0,59.4,1.66,21.55610393380752,0
+gustavo alves,64,feminino,0,0,moderado,baixa,0,alto,0,1,1,0,92.8,0,0,0,baixo,0,78.4,1.71,26.811668547587296,0
+pedro moura,41,masc,0,0,moderado,baixa,0,baixo,1,0,1,0,93.3,0,0,1,baixo,0,61.9,1.77,19.758051645440325,0
+paula costa,47,outro,0,0,moderado,baixa,1,moderado,0,0,0,0,94.2,0,0,1,alto,0,75.8,1.69,26.5396869857498,0
+carolina freitas,43,masc,0,0,moderado,baixa,0,moderado,0,0,0,0,101.0,0,0,0,baixo,1,108.9,1.82,32.876464195145516,0
+carlos dias,56,feminino,0,0,alto,baixa,0,alto,0,0,1,1,93.4,0,0,0,baixo,0,49.4,1.66,17.9271302075773,0
+larissa costa,40,feminino,0,0,baixo,média,0,baixo,0,0,0,1,98.3,0,0,0,baixo,0,93.0,1.78,29.352354500694357,0
+fernanda silva,42,feminino,1,0,baixo,baixa,0,moderado,0,0,1,0,100.3,0,0,0,alto,0,69.8,1.65,25.63820018365473,0
+ana araújo,36,feminino,0,0,baixo,alta,0,baixo,0,0,1,0,98.5,0,0,0,baixo,1,63.9,1.62,24.348422496570638,0
+gustavo alves,41,fem,0,1,moderado,baixa,0,moderado,0,1,0,nan,98.2,0,0,0,moderado,0,99.3,1.52,42.97957063711911,0
+gustavo moura,29,feminino,1,0,moderado,baixa,0,moderado,0,0,0,0,94.8,0,0,0,moderado,0,99.4,1.69,34.80270298659011,0
+fernanda ribeiro,51,não declarado,1,0,baixo,média,0,moderado,0,0,1,0,96.95772442588726,0,0,0,moderado,0,66.0,1.7,22.837370242214536,0
+felipe souza,70,não declarado,0,0,moderado,média,1,moderado,0,0,0,0,93.6,0,0,0,baixo,0,81.7,1.7,28.26989619377163,0
+gabriel costa,48,outro,0,0,baixo,baixa,0,moderado,0,0,0,0,99.7,0,0,0,moderado,0,67.9,1.69,23.773677392248175,0
+maria dias,18,masculino,0,0,baixo,alta,0,baixo,0,0,0,0,93.8,0,0,0,moderado,0,72.7,1.65,26.703397612488526,0
+joão ribeiro,57,outro,1,0,baixo,média,1,moderado,0,0,0,0,96.5,0,0,0,baixo,1,69.1,1.66,25.076208448250835,1
+fernanda lima,52,feminino,0,0,baixo,alta,0,baixo,0,0,0,0,99.9,0,0,1,baixo,0,94.6,1.48,43.18845872899927,0
+gustavo dias,41,não declarado,0,0,baixo,baixa,0,alto,1,0,0,0,97.6,0,0,0,baixo,0,83.5,1.72,28.22471606273662,0
+paula gomes,35,não declarado,0,0,baixo,baixa,1,baixo,1,0,1,0,94.5,0,0,0,moderado,0,75.4,1.71,25.785711842960232,0
+larissa moura,45,feminino,0,0,alto,média,0,moderado,0,0,1,nan,98.9,1,0,1,moderado,0,60.3,1.64,22.41969066032124,0
+luiza lima,65,não declarado,0,0,moderado,média,0,moderado,0,1,1,0,96.2,0,1,1,baixo,1,101.4,1.61,39.11886115504803,1
+luiza moreira,43,masculino,0,0,alto,média,0,moderado,0,0,0,0,100.0,0,0,1,baixo,0,83.6,1.61,32.25184213572007,0
+andré santos,55,masc,0,0,baixo,baixa,0,moderado,1,0,0,0,95.6,0,0,0,moderado,0,82.7,1.76,26.69808884297521,0
+maria silva,55,feminino,1,0,baixo,média,0,baixo,0,0,0,0,92.6,1,0,1,moderado,0,58.1,1.82,17.54015215553677,1
+pedro lima 589,30,não declarado,1,0,moderado,baixa,0,moderado,0,1,0,0,99.3,0,0,0,moderado,0,99.3,1.81,30.310430084551754,0
+beatriz santos,44,não declarado,1,0,moderado,alta,0,alto,1,1,1,0,99.5,1,0,0,baixo,0,71.0,1.61,27.390918560240728,1
+larissa silva 591,59,outro,1,0,baixo,baixa,0,moderado,0,0,0,0,92.7,0,0,0,baixo,0,89.7,1.78,28.3108193409923,1
+joão silva,54,fem,0,0,alto,alta,1,baixo,0,0,0,nan,98.2,0,1,1,baixo,0,90.9,1.45,43.234244946492275,0
+paula ferreira 593,52,outro,1,0,alto,alta,0,moderado,0,0,0,0,95.5,0,0,0,baixo,1,71.2,1.84,21.03024574669187,1
+luiza souza,53,masculino,0,0,alto,baixa,1,moderado,0,0,0,0,98.1,0,0,1,alto,0,37.1,1.7,12.837370242214535,0
+mariana costa,47,fem,0,0,alto,média,0,moderado,0,0,1,0,96.95772442588726,0,0,0,baixo,0,88.7,1.75,28.96326530612245,0
+beatriz ribeiro,38,masc,1,0,moderado,baixa,0,baixo,0,0,0,0,97.6,0,0,0,baixo,1,95.7,1.87,27.367096571248815,0
+beatriz martins,36,feminino,1,0,baixo,baixa,0,alto,0,0,0,0,95.8,0,0,1,alto,0,58.7,1.67,21.047724909462513,0
+mariana ferreira,37,masc,0,0,baixo,alta,0,alto,0,0,0,1,96.3,0,0,0,alto,0,83.7,1.76,27.020919421487605,0
+maria oliveira,54,outro,0,1,alto,média,0,baixo,0,0,0,0,99.3,0,0,1,moderado,1,79.1,1.91,21.682519667772265,0
+paula araújo,38,masculino,0,0,baixo,baixa,0,moderado,0,0,0,0,96.7,0,0,0,moderado,0,78.8,1.76,25.43904958677686,0
+luiza oliveira,35,outro,0,0,baixo,alta,0,moderado,0,0,0,0,97.2,0,0,1,moderado,0,91.2,1.68,32.312925170068034,0
+gabriel dias,46,masc,0,0,baixo,baixa,1,moderado,0,0,0,0,93.8,1,0,0,baixo,0,57.3,1.74,18.925881886642884,0
+andré santos,55,não declarado,0,0,baixo,baixa,1,moderado,1,0,1,0,91.0,1,0,0,baixo,0,65.8,1.76,21.242252066115704,0
+rafael santos,20,fem,0,0,alto,baixa,0,baixo,0,0,0,0,95.2,0,0,0,baixo,0,60.7,1.67,21.764853526479975,0
+paula dias,44,masculino,0,0,baixo,baixa,0,moderado,0,0,1,0,97.9,0,0,0,baixo,0,60.1,1.59,23.772793797713696,0
+gabriel silva,53,masculino,0,0,moderado,baixa,1,moderado,0,0,0,0,91.6,0,0,1,moderado,1,97.3,1.69,34.06743461363398,1
+gustavo oliveira,41,feminino,1,0,moderado,alta,0,moderado,0,0,1,0,100.6,0,1,0,moderado,0,83.3,1.59,32.94964597919385,1
+tiago martins,37,feminino,0,0,alto,baixa,0,baixo,0,1,0,0,104.1,0,0,0,moderado,0,94.5,1.67,33.88432715407509,0
+gustavo lima,38,masc,0,0,alto,baixa,0,alto,0,0,0,0,93.5,0,1,0,moderado,0,90.7,1.84,26.78993383742911,0
+andré rodrigues,55,outro,0,0,moderado,média,0,alto,0,0,0,0,102.5,0,0,0,moderado,0,95.6,1.8,29.50617283950617,0
+mariana oliveira,53,outro,1,0,baixo,média,0,moderado,0,0,1,0,96.95772442588726,0,1,1,moderado,0,79.1,1.8,24.413580246913575,1
+gabriel silva,41,não declarado,0,0,baixo,média,0,moderado,0,0,0,0,94.5,0,0,0,alto,1,113.0,1.82,34.1142374109407,0
+larissa alves,39,outro,0,0,moderado,baixa,0,alto,0,0,0,1,96.7,0,0,0,alto,0,89.5,1.7,30.96885813148789,0
+camila pereira,54,outro,1,1,alto,alta,0,alto,0,0,0,0,101.9,0,0,0,baixo,0,66.9,1.64,24.873587150505656,1
+pedro freitas,81,feminino,0,1,moderado,alta,1,moderado,0,0,0,0,97.9,0,1,0,alto,0,96.9,1.7055828220858895,33.310269804472604,1
+pedro oliveira,27,outro,0,0,moderado,baixa,0,moderado,0,0,0,0,102.3,0,0,1,moderado,0,79.5,1.63,29.922089653355417,0
+lucas martins,46,masc,0,0,moderado,baixa,0,moderado,1,0,0,1,92.8,0,0,0,baixo,0,92.7,1.83,27.680730986294005,0
+pedro silva,72,não declarado,0,0,moderado,baixa,0,baixo,0,0,0,0,95.4,0,0,0,moderado,0,85.7,1.77,27.35484694691819,0
+beatriz ribeiro,76,masc,0,0,baixo,média,1,moderado,0,1,0,0,97.1,0,0,1,moderado,0,90.8,1.77,28.98273165437773,1
+luiza barbosa,52,outro,0,0,alto,baixa,1,alto,0,0,0,1,93.7,0,1,1,moderado,0,77.7,1.69,27.204929799376778,0
+ana silva,60,masc,0,0,baixo,baixa,0,moderado,0,0,0,0,98.5,0,0,0,moderado,0,93.1,1.98,23.747576777879807,0
+carolina freitas,33,outro,0,0,baixo,baixa,0,moderado,0,0,0,0,96.5,0,0,0,baixo,0,76.8,1.64,28.554431885782275,0
+joão ferreira,38,masc,0,0,alto,média,0,moderado,0,0,0,0,99.8,0,0,0,baixo,0,56.0,1.7,19.377162629757787,0
+paula alves,57,masculino,0,0,baixo,alta,0,moderado,0,0,0,0,94.5,0,0,0,baixo,0,88.8,1.81,27.10539971307347,0
+gustavo pereira,71,fem,0,0,baixo,baixa,0,moderado,0,0,1,0,97.0,0,0,0,moderado,0,64.4,1.76,20.79028925619835,0
+rafael araújo,43,masculino,0,0,moderado,baixa,0,moderado,0,1,0,0,97.5,0,0,0,alto,0,72.1,1.7,24.94809688581315,0
+camila ribeiro,45,não declarado,0,0,alto,média,1,alto,0,0,1,0,94.2,0,0,1,baixo,1,72.6,1.68,25.72278911564626,0
+pedro rodrigues,55,feminino,1,0,moderado,baixa,0,baixo,0,0,0,0,93.7,0,0,1,moderado,0,52.3,1.79,16.32283636590618,0
+larissa freitas,44,não declarado,0,0,moderado,baixa,0,baixo,0,0,0,0,96.95772442588726,1,0,0,baixo,0,84.2,1.72,28.461330448891296,0
+ana lima,67,outro,1,0,moderado,baixa,0,moderado,0,0,0,0,101.9,0,0,1,moderado,0,89.9,1.65,33.021120293847574,0
+gabriel freitas,61,feminino,0,0,moderado,alta,0,baixo,0,0,1,0,99.0,0,0,0,moderado,0,49.4,1.69,17.296313154301323,0
+felipe gomes,40,masculino,1,0,baixo,alta,0,moderado,0,0,1,0,98.2,0,0,0,baixo,0,83.8,1.46,39.31319196847439,1
+fernanda gomes,34,feminino,1,0,moderado,alta,0,moderado,0,0,0,0,95.0,0,0,0,moderado,0,95.1,1.71,32.52282753667795,0
+larissa gomes,44,outro,0,0,alto,alta,0,baixo,1,1,0,nan,96.1,0,0,0,alto,0,76.5,1.61,29.512750279695997,0
+gabriel ferreira,48,não declarado,0,0,baixo,baixa,0,moderado,0,0,1,0,97.5,0,0,0,alto,0,85.5,1.65,31.404958677685954,0
+tiago alves,78,fem,1,0,moderado,baixa,1,baixo,0,0,0,0,95.6,0,0,0,baixo,0,76.5,1.77,24.41827061189313,1
+gustavo rodrigues,62,feminino,0,0,baixo,média,0,baixo,0,0,0,nan,96.95772442588726,0,0,0,baixo,0,65.2,1.75,21.289795918367346,0
+tiago moreira,58,masculino,0,0,moderado,baixa,0,baixo,0,0,1,0,96.95772442588726,0,1,0,moderado,0,96.9,1.71,33.138401559454195,0
+felipe costa,36,fem,1,1,moderado,média,0,moderado,0,0,1,0,100.9,0,0,0,moderado,0,75.5,1.76,24.37370867768595,0
+pedro barbosa,46,masculino,0,0,moderado,média,0,baixo,0,0,0,0,97.0,0,0,0,baixo,0,80.5,1.74,26.58871713568503,0
+fernanda alves,51,masculino,1,0,alto,baixa,0,moderado,0,0,0,0,96.2,0,0,0,baixo,0,63.3,1.6,24.726562499999993,0
+camila martins,63,não declarado,0,0,moderado,baixa,0,moderado,0,0,0,0,94.2,0,0,1,alto,0,81.5,1.71,27.871823809035263,0
+tiago martins,46,outro,0,0,moderado,baixa,0,moderado,0,0,0,0,97.2,0,0,1,moderado,0,59.1,1.72,19.977014602487834,0
+paula santos,58,feminino,0,0,moderado,baixa,0,moderado,1,0,1,0,97.7,0,0,1,moderado,0,100.2,1.77,31.983146605381595,0
+paula freitas,66,masc,0,0,moderado,baixa,0,moderado,0,1,1,0,94.3,0,0,0,alto,0,84.8,1.75,27.689795918367345,0
+ana alves,52,feminino,0,0,baixo,baixa,0,moderado,0,1,0,0,97.5,0,0,1,moderado,0,101.4,1.97,26.1279600092762,0
+luiza freitas,54,outro,1,0,moderado,média,0,moderado,1,0,0,0,96.3,0,0,1,moderado,0,68.6,1.67,24.597511563698948,0
+gabriel barbosa,48,masc,1,0,baixo,baixa,0,moderado,0,0,0,0,99.2,0,0,1,baixo,0,108.8,1.66,39.48323414138482,0
+rafael alves,51,feminino,1,0,baixo,baixa,1,baixo,0,0,0,0,93.5,0,0,1,moderado,0,69.2,1.6,27.031249999999996,0
+felipe rodrigues,56,masculino,0,0,moderado,média,0,moderado,0,0,0,0,95.4,0,0,0,moderado,0,87.3,1.77,27.865555874748633,0
+beatriz silva,31,fem,0,0,moderado,baixa,0,baixo,0,0,0,0,90.9,0,0,0,alto,0,70.8,1.75,23.118367346938776,0
+camila oliveira,59,masculino,1,0,alto,baixa,0,moderado,1,0,0,0,94.7,0,0,1,moderado,1,101.1,1.79,31.5533223057957,1
+beatriz ferreira,58,feminino,0,0,moderado,baixa,1,moderado,0,0,0,0,92.8,0,0,1,moderado,0,74.5,1.66,27.035854260415157,0
+andré araújo,21,masc,1,0,baixo,baixa,0,moderado,1,0,0,1,96.9,0,1,0,baixo,0,98.0,1.63,36.88509164816139,1
+felipe moura,72,fem,0,0,moderado,média,0,moderado,0,0,0,0,96.6,0,0,0,moderado,0,72.8,1.88,20.597555454956996,0
+maria souza,47,feminino,0,0,baixo,alta,0,moderado,0,1,1,0,95.6,0,0,1,baixo,0,98.2,1.84,29.005198487712665,0
+ana pereira,52,feminino,0,0,alto,média,1,alto,1,0,0,0,96.5,0,0,0,baixo,0,57.0,1.68,20.19557823129252,0
+andré pereira,47,feminino,1,0,moderado,baixa,1,baixo,0,0,1,0,94.4,1,0,0,baixo,0,82.8,1.71,28.31640504770699,0
+paula barbosa,52,feminino,1,0,baixo,média,0,baixo,0,0,0,0,100.4,0,0,0,moderado,0,80.7,1.78,25.470268905441234,0
+gustavo pereira,70,outro,0,0,moderado,baixa,0,baixo,0,0,0,0,98.6,0,1,0,baixo,0,55.1,1.75,17.991836734693877,0
+gustavo silva,43,feminino,0,1,moderado,média,0,alto,0,1,1,0,99.1,1,0,0,baixo,0,87.6,1.61,33.79499247714208,0
+felipe dias,64,masculino,0,0,baixo,média,0,baixo,1,0,1,0,97.0,0,0,1,alto,0,68.2,1.63,25.669012759230686,0
+carlos costa,43,masc,1,0,moderado,média,0,alto,0,0,1,0,96.95772442588726,0,0,0,baixo,1,89.0,1.67,31.912223457277065,1
+tiago souza,40,masculino,0,0,baixo,média,1,moderado,0,0,0,0,95.2,0,0,1,baixo,0,83.2,1.66,30.19306140223545,0
+beatriz gomes,67,masc,0,0,moderado,baixa,0,moderado,0,0,0,1,97.7,0,0,0,alto,0,72.4,1.73,24.190584383039862,0
+rafael araújo,53,feminino,0,0,baixo,média,0,moderado,0,0,0,0,102.5,1,0,0,moderado,0,70.7,1.7,24.463667820069208,0
+carolina martins,18,masc,1,0,baixo,alta,0,moderado,0,0,0,0,98.1,0,0,1,moderado,0,106.5,1.7,36.85121107266436,1
+beatriz rodrigues,53,masculino,0,0,moderado,baixa,0,moderado,0,1,0,1,96.2,0,0,0,alto,0,100.6,1.73,33.61288382505262,0
+fernanda freitas,54,masculino,0,0,moderado,baixa,0,baixo,0,0,1,0,98.5,0,0,1,baixo,0,85.3,1.71,29.171368968229544,0
+gabriel souza,49,masc,1,0,alto,média,0,moderado,0,0,0,0,95.1,0,0,0,alto,0,41.1,1.69,14.390252442141383,0
+luiza rodrigues,43,outro,0,0,moderado,média,1,baixo,0,0,0,0,97.1,0,0,0,baixo,0,87.5,1.65,32.139577594123054,0
+camila freitas,61,outro,0,0,moderado,média,0,alto,1,0,0,0,97.2,0,0,1,moderado,0,63.6,1.7,22.006920415224915,0
+camila pereira,48,masculino,0,0,moderado,baixa,0,baixo,0,0,0,0,98.0,0,0,0,moderado,0,77.5,1.72,26.196592752839376,0
+paula pereira,56,masculino,0,0,baixo,alta,0,moderado,0,1,0,0,92.8,0,0,0,moderado,1,80.8,1.76,26.084710743801654,1
+luiza gomes,66,masculino,0,0,baixo,alta,0,baixo,0,0,0,0,98.6,0,1,0,moderado,0,64.6,1.73,21.58441645227037,1
+beatriz silva,28,feminino,0,1,alto,baixa,0,baixo,0,0,1,0,94.2,0,0,0,baixo,0,103.2,1.67,37.00383663810104,0
+gustavo moreira,18,não declarado,0,0,moderado,baixa,0,moderado,1,0,1,0,101.0,0,1,1,moderado,0,59.5,1.74,19.652530056810676,0
+camila araújo,32,não declarado,0,0,moderado,média,1,baixo,0,0,0,0,93.1,0,0,0,baixo,0,62.8,1.65,23.067033976124886,0
+larissa pereira,51,masculino,0,0,moderado,média,0,moderado,0,0,0,0,96.5,0,0,0,alto,1,67.1,1.65,24.646464646464647,0
+mariana ferreira,61,feminino,0,0,moderado,alta,0,baixo,1,0,0,0,97.6,0,0,0,moderado,0,58.9,1.7055828220858895,20.247418900757854,0
+paula ferreira,59,não declarado,0,0,baixo,baixa,0,baixo,1,0,1,nan,99.1,0,0,1,moderado,0,71.8,1.79,22.408788739427607,0
+tiago araújo,70,masc,1,0,baixo,média,0,moderado,0,1,1,0,94.1,0,0,0,baixo,0,104.1,1.96,27.09808413161183,1
+tiago souza,36,feminino,0,0,moderado,baixa,0,alto,1,0,0,0,94.3,0,0,0,alto,0,77.7,1.57,31.52257698081058,0
+paula santos,52,não declarado,0,0,moderado,média,0,moderado,0,0,0,0,100.6,0,0,0,moderado,0,93.4,1.61,36.032560472204004,0
+paula costa,63,masc,0,0,baixo,baixa,1,moderado,1,0,0,0,99.6,0,0,0,baixo,1,65.8,1.77,21.002904657027035,0
+mariana ferreira,33,masculino,1,0,baixo,média,0,moderado,0,0,0,0,96.95772442588726,0,1,0,moderado,0,96.6,1.65,35.48209366391185,1
+felipe ribeiro,48,masc,0,0,baixo,baixa,0,moderado,1,0,0,0,98.3,0,0,0,moderado,0,55.4,1.66,20.10451444331543,0
+felipe souza,76,feminino,0,0,moderado,baixa,0,moderado,1,0,0,0,94.6,0,0,0,moderado,0,88.5,1.82,26.717787706798696,0
+carlos dias,29,outro,0,0,baixo,baixa,0,moderado,0,0,0,nan,100.8,0,1,1,baixo,0,95.9,1.57,38.906243661000445,0
+luiza freitas,58,feminino,0,0,alto,média,0,alto,0,0,1,0,99.1,0,1,0,moderado,0,78.1,1.64,29.037775133848903,0
+carlos santos,62,fem,1,0,baixo,baixa,0,moderado,0,0,0,1,96.1,0,0,0,moderado,0,92.2,1.8,28.456790123456788,1
+carolina moreira,18,fem,0,0,baixo,média,0,baixo,0,1,0,0,97.8,0,0,0,moderado,0,104.2,1.69,36.483316410489834,0
+fernanda dias,35,masc,0,0,moderado,baixa,0,moderado,0,0,0,0,96.9,0,0,0,baixo,0,77.1,1.68,27.317176870748302,0
+lucas barbosa,30,fem,1,0,alto,média,0,moderado,0,0,0,0,98.6,0,0,0,baixo,0,80.8,1.76,26.084710743801654,0
+lucas lima,57,feminino,0,0,moderado,baixa,0,baixo,0,0,0,0,92.7,0,1,0,baixo,0,101.7,1.75,33.208163265306126,0
+mariana martins,71,fem,0,0,alto,alta,0,moderado,0,0,0,0,96.7,0,0,0,moderado,0,80.5,1.83,24.037743736749377,0
+camila martins,90,masc,0,0,moderado,alta,0,alto,0,0,0,0,97.1,0,0,0,moderado,0,107.7,1.67,38.61737602639033,0
+gustavo nunes,37,feminino,0,0,moderado,média,0,moderado,0,0,0,0,97.0,0,0,0,moderado,0,88.6,1.72,29.94862087614927,0
+felipe araújo,47,masculino,0,0,baixo,média,0,alto,0,1,0,0,95.0,0,0,1,baixo,1,79.4,1.78,25.059967175861633,0
+pedro moura,47,feminino,0,0,baixo,média,0,alto,0,0,1,0,98.2,1,0,0,baixo,0,73.4,1.68,26.006235827664405,0
+pedro moreira,49,outro,0,1,moderado,média,0,baixo,0,0,1,0,94.6,0,0,0,moderado,0,93.2,1.75,30.432653061224492,0
+carlos araújo,48,fem,0,0,baixo,média,0,moderado,0,0,0,0,96.95772442588726,0,0,0,baixo,0,88.2,1.73,29.469745063316516,0
+gabriel moreira,46,não declarado,1,0,moderado,média,0,moderado,0,0,0,0,94.9,0,0,0,moderado,1,85.9,1.78,27.111475823759626,1
+gabriel santos,42,não declarado,1,0,baixo,média,0,moderado,1,0,1,0,98.8,0,0,1,baixo,0,48.5,1.65,17.814508723599634,0
+joão souza,60,masculino,0,0,baixo,baixa,1,moderado,0,0,1,1,96.95772442588726,0,0,0,baixo,0,104.4,1.71,35.70329332102186,0
+felipe moura 706,53,outro,1,0,alto,alta,0,baixo,0,0,0,0,96.7,0,0,0,moderado,0,54.3,1.72,18.35451595457004,1
+carlos lima,53,fem,1,0,baixo,alta,1,moderado,0,0,0,0,97.4,0,1,0,baixo,0,116.1,1.56,47.70710059171597,1
+luiza ribeiro,65,feminino,1,0,moderado,alta,0,alto,0,0,0,0,99.5,0,0,0,moderado,0,68.6,1.68,24.305555555555557,1
+rafael oliveira,42,masculino,0,0,alto,média,0,moderado,0,0,0,0,96.9,0,0,1,baixo,0,82.4,1.94,21.89393134233181,0
+maria martins,72,feminino,0,0,baixo,média,1,baixo,1,0,1,0,101.5,0,0,1,baixo,0,81.9,1.82,24.725274725274726,0
+camila oliveira,58,masculino,0,0,moderado,baixa,1,moderado,0,0,0,0,91.9,0,0,0,moderado,0,81.0,1.55,33.71488033298647,0
+carlos araújo,58,feminino,0,0,baixo,baixa,1,moderado,0,0,0,1,95.9,0,0,0,moderado,0,88.8,1.82,26.808356478686147,0
+andré moura 713,44,feminino,0,0,baixo,média,1,moderado,0,0,1,0,95.8,0,0,0,baixo,0,79.3,1.75,25.893877551020406,0
+ana barbosa,49,não declarado,0,0,moderado,média,0,moderado,0,0,0,0,98.2,0,0,0,moderado,0,61.7,1.79,19.25657751006523,0
+pedro alves,40,masc,0,0,baixo,baixa,1,moderado,0,0,0,0,98.9,0,0,0,baixo,0,78.2994918699187,1.58,31.36496229367036,0
+ana gomes,35,fem,0,0,moderado,baixa,0,baixo,0,0,0,0,100.3,0,1,0,moderado,0,88.8,1.75,28.99591836734694,0
+lucas martins,35,masculino,1,0,moderado,baixa,1,moderado,0,0,0,0,100.8,0,0,0,baixo,0,100.1,1.76,32.31534090909091,0
+lucas oliveira,67,masculino,0,1,moderado,baixa,0,moderado,0,1,0,0,96.95772442588726,0,0,0,moderado,0,99.6,1.73,33.278759731364225,0
+carolina pereira,39,feminino,0,0,alto,baixa,0,moderado,0,0,0,0,100.5,0,0,0,moderado,0,70.0,1.73,23.38868655818771,0
+lucas barbosa,39,não declarado,0,0,baixo,média,0,moderado,0,0,0,0,99.6,0,0,0,moderado,0,101.4,1.5,45.06666666666667,0
+carlos oliveira,54,masculino,1,0,moderado,média,0,moderado,0,0,0,0,95.7,0,0,0,baixo,0,78.1,1.66,28.342284801858035,0
+ana dias,60,feminino,0,0,alto,baixa,0,baixo,0,0,1,0,94.7,0,0,0,moderado,0,105.0,1.65,38.567493112947666,0
+camila gomes,34,feminino,1,0,baixo,baixa,0,moderado,0,0,0,0,98.1,0,0,0,alto,0,78.2994918699187,1.64,29.111946709517664,0
+rafael oliveira,41,fem,0,0,baixo,média,0,baixo,0,0,0,0,99.8,0,0,0,moderado,0,82.2,1.73,27.46500050118614,0
+joão ferreira,62,feminino,1,0,moderado,média,0,moderado,1,0,1,0,99.1,0,0,1,alto,0,89.9,1.49,40.49367145624071,0
+gustavo ferreira,47,feminino,1,0,baixo,alta,0,alto,0,0,1,1,97.6,0,0,0,moderado,0,106.5,1.73,35.58421597781416,0
+larissa martins,48,não declarado,0,0,alto,baixa,0,baixo,0,0,0,0,94.1,1,0,1,baixo,0,77.1,1.7055828220858895,26.5038369651686,0
+carolina oliveira,65,masculino,0,0,baixo,baixa,1,moderado,0,0,1,nan,95.5,0,0,1,alto,0,100.2,1.47,46.36956823545745,0
+beatriz gomes,49,outro,0,0,moderado,alta,0,moderado,0,1,0,0,92.7,0,0,1,alto,0,67.2,1.68,23.809523809523814,0
+beatriz moreira,58,não declarado,0,0,moderado,baixa,0,baixo,0,0,0,0,97.2,0,0,0,moderado,0,75.8,1.74,25.03633240850839,0
+pedro silva,72,masculino,0,0,alto,média,0,baixo,0,0,0,0,96.1,0,0,0,alto,0,92.5,1.89,25.895131715237536,0
+rafael costa,50,masculino,0,0,alto,média,1,moderado,0,1,1,1,97.6,0,0,0,baixo,0,60.7,1.62,23.12909617436366,0
+gustavo nunes,59,outro,1,0,moderado,média,0,baixo,0,0,0,0,95.3,0,0,1,baixo,1,39.6,1.63,14.90458805374685,1
+camila martins,67,masculino,0,0,moderado,alta,1,baixo,0,0,0,0,94.8,0,0,0,moderado,0,77.7,1.85,22.7027027027027,0
+rafael oliveira,66,feminino,1,0,baixo,baixa,0,alto,1,0,0,0,96.9,0,0,0,moderado,0,73.4,1.71,25.101740706542188,0
+lucas moreira,54,masc,0,0,baixo,média,0,moderado,0,1,0,0,96.9,0,0,0,moderado,1,56.6,1.77,18.06632832200198,0
+fernanda barbosa,53,feminino,1,0,moderado,média,0,moderado,0,0,1,0,97.2,0,0,0,alto,0,74.0,1.62,28.19692120103642,0
+maria alves,56,outro,0,0,baixo,baixa,0,baixo,0,0,0,0,98.0,0,0,0,baixo,0,111.5,1.77,35.59002840818411,0
+ana moura,36,masculino,0,0,baixo,baixa,0,baixo,0,0,0,1,101.8,0,0,1,baixo,0,87.3,1.55,36.33714880332986,0
+fernanda pereira,35,masculino,1,0,moderado,baixa,0,baixo,0,1,0,nan,97.7,0,0,0,baixo,0,97.4,1.63,36.65926455643796,0
+joão pereira,37,feminino,1,0,baixo,baixa,0,moderado,0,0,0,1,94.6,0,0,0,moderado,0,56.4,1.68,19.982993197278915,0
+andré nunes,57,fem,1,0,moderado,média,0,moderado,0,0,0,0,96.95772442588726,0,0,1,baixo,0,68.0,1.65,24.977043158861342,0
+luiza rodrigues,46,fem,0,0,alto,baixa,0,moderado,0,0,0,0,95.4,0,0,0,alto,0,64.8,1.69,22.688281222646268,0
+ana silva,57,outro,1,0,baixo,média,1,baixo,0,0,0,1,97.2,0,0,0,moderado,0,66.2,1.62,25.224813290656908,0
+rafael nunes,78,masc,1,0,baixo,média,0,moderado,0,0,0,0,96.4,0,0,1,alto,0,69.4,1.69,24.29886908721684,1
+larissa moura,45,masculino,0,0,moderado,baixa,1,moderado,0,1,1,0,98.7,0,0,0,baixo,0,107.1,1.77,34.18557885665038,0
+larissa dias,62,masculino,0,0,moderado,baixa,0,moderado,0,0,0,0,96.2,0,0,0,moderado,0,66.0,1.55,27.47138397502601,0
+rafael souza,37,masc,0,0,moderado,baixa,0,baixo,0,0,1,0,97.1,0,0,0,moderado,0,61.0,1.68,21.612811791383223,0
+mariana nunes 749,28,masculino,0,0,moderado,média,0,baixo,0,0,0,0,97.5,0,0,0,baixo,0,103.8,1.73,34.68208092485549,0
+mariana santos,54,outro,0,0,moderado,alta,0,moderado,0,0,1,0,99.7,0,0,0,baixo,0,92.9,1.71,31.77045928661811,0
+lucas pereira,57,masculino,0,0,moderado,média,0,moderado,0,0,0,0,97.8,0,0,0,moderado,0,76.0,1.79,23.719609250647608,0
+paula barbosa,54,feminino,0,0,moderado,alta,0,moderado,0,1,0,0,98.2,0,0,0,baixo,0,89.1,1.72,30.11763115197404,0
+camila gomes,25,masc,1,0,baixo,baixa,0,alto,0,0,0,0,100.6,0,1,0,moderado,0,87.9,1.51,38.5509407482128,0
+tiago rodrigues,33,masculino,1,0,moderado,baixa,0,moderado,0,0,1,1,97.6,0,0,1,moderado,0,90.4,1.75,29.518367346938778,0
+luiza alves,32,masculino,0,0,moderado,média,0,moderado,0,0,0,0,95.8,0,0,0,alto,0,94.6,1.62,36.04633440024386,0
+gustavo oliveira,63,fem,0,0,alto,baixa,1,moderado,0,0,1,0,93.3,0,0,0,moderado,0,68.8,1.87,19.674568903886296,0
+fernanda gomes,54,não declarado,1,0,alto,alta,0,moderado,0,0,0,0,97.5,1,0,0,baixo,1,68.2,1.74,22.52609327520148,1
+joão rodrigues,54,fem,0,0,moderado,média,0,alto,0,0,0,1,93.2,0,0,0,moderado,0,65.3,1.65,23.98530762167126,0
+carolina alves,40,não declarado,1,0,baixo,média,0,alto,0,0,0,0,97.3,0,0,1,moderado,0,67.8,1.67,24.310660116891963,0
+carlos moreira,59,feminino,0,1,baixo,baixa,0,baixo,0,1,1,0,92.8,1,0,0,moderado,1,71.4,1.63,26.873423915089017,1
+lucas silva,68,masculino,0,0,baixo,média,1,moderado,0,0,0,0,97.6,0,0,1,moderado,0,72.1,1.68,25.54563492063492,0
+mariana moreira,18,masculino,0,0,moderado,baixa,0,baixo,0,0,1,0,95.0,0,0,0,moderado,0,50.5,1.68,17.892573696145128,0
+gabriel silva,35,outro,1,0,moderado,baixa,0,moderado,0,0,1,0,98.2,0,0,0,moderado,0,70.5,1.59,27.886555120446182,0
+fernanda souza,48,feminino,0,0,moderado,alta,0,moderado,0,0,0,1,101.0,0,0,0,baixo,0,66.1,1.67,23.70110079242712,0
+camila araújo,61,masculino,0,0,moderado,alta,0,alto,0,0,0,0,96.95772442588726,1,0,0,moderado,0,80.2,1.84,23.688563327032135,0
+rafael oliveira,33,feminino,0,0,baixo,média,1,moderado,0,0,0,1,96.7,1,0,0,baixo,0,85.8,1.7,29.688581314878896,0
+andré barbosa,55,feminino,0,0,moderado,baixa,0,moderado,0,0,0,0,96.95772442588726,0,0,0,moderado,1,89.6,1.78,28.279257669486174,0
+felipe oliveira,42,masculino,1,0,baixo,média,1,moderado,0,0,0,0,100.6,0,0,1,alto,0,88.2,1.6,34.45312499999999,0
+gustavo oliveira,34,masculino,0,0,moderado,baixa,0,baixo,0,0,0,0,97.8,0,0,0,baixo,0,49.8,1.82,15.03441613331723,0
+camila lima,29,fem,0,0,moderado,alta,1,moderado,0,0,0,0,96.6,0,0,1,moderado,0,68.7,1.84,20.291824196597354,0
+gabriel martins,45,feminino,0,0,alto,alta,0,moderado,0,0,1,0,95.0,0,0,0,alto,0,75.1,1.73,25.09271943599853,0
+gabriel moura,44,masc,0,0,moderado,baixa,0,moderado,0,0,0,0,93.3,0,0,0,moderado,0,29.2,1.89,8.174463200918227,0
+carlos lima,54,masc,0,0,baixo,baixa,1,alto,0,0,0,0,97.5,0,0,1,moderado,0,93.8,1.8,28.950617283950614,0
+lucas souza,38,não declarado,0,0,baixo,média,0,moderado,0,0,1,0,97.9,0,0,0,baixo,1,61.9,1.79,19.31899753440904,0
+gabriel barbosa,63,feminino,0,0,alto,média,0,baixo,0,0,0,0,93.4,0,0,0,baixo,0,63.0,1.88,17.824807605251245,0
+carlos moura,53,fem,0,0,moderado,baixa,0,moderado,0,0,0,0,97.6,0,0,0,moderado,0,78.7,1.55,32.757544224765866,0
+ana oliveira,55,fem,0,0,moderado,alta,0,alto,0,0,1,0,100.1,0,0,0,alto,0,77.7,1.72,26.264196863169285,0
+carolina santos,49,feminino,0,0,moderado,média,1,baixo,1,0,1,0,97.9,0,0,0,moderado,0,43.0,1.63,16.184274906846326,0
+lucas oliveira,61,feminino,0,0,baixo,baixa,0,moderado,0,0,0,0,96.0,0,0,1,moderado,0,76.1,1.68,26.962868480725625,0
+gustavo nunes,48,fem,0,0,baixo,alta,0,moderado,0,0,0,1,99.0,0,1,0,baixo,0,79.1,1.64,29.409577632361692,0
+rafael pereira,37,outro,0,0,baixo,baixa,0,moderado,0,0,0,0,94.7,0,0,0,moderado,0,51.3,1.76,16.56120867768595,0
+felipe moreira,46,feminino,1,0,moderado,alta,0,baixo,0,0,0,0,100.3,0,0,0,baixo,0,88.1,1.73,29.436332653947673,0
+ana moura,22,masculino,1,0,alto,baixa,1,moderado,0,0,0,1,92.7,0,1,0,baixo,0,71.5,1.55,29.760665972944846,1
+ana silva,59,feminino,0,0,alto,média,0,baixo,0,0,1,0,97.7,0,0,0,moderado,0,87.0,1.81,26.555965935105768,0
+lucas costa,45,feminino,0,0,baixo,alta,0,moderado,0,0,1,0,94.2,0,0,0,moderado,1,72.1,1.7,24.94809688581315,1
+pedro dias,72,masc,0,0,moderado,baixa,0,alto,1,0,0,0,93.9,0,0,0,moderado,0,77.1,1.61,29.744222830909298,0
+joão oliveira,47,não declarado,0,0,moderado,baixa,0,moderado,0,0,0,0,96.3,0,0,0,alto,0,81.0,1.66,29.3946871824648,0
+lucas oliveira,41,feminino,0,0,alto,baixa,0,baixo,0,0,0,1,97.0,0,0,1,moderado,0,82.3,1.7,28.477508650519034,0
+ana santos,52,masculino,1,0,moderado,média,0,alto,0,1,0,0,98.6,0,0,1,baixo,0,82.4,1.37,43.902179125153175,1
+luiza dias,52,outro,0,0,baixo,alta,0,baixo,0,0,0,0,99.1,0,0,1,baixo,1,79.0,1.79,24.65590961580475,0
+larissa silva,65,outro,0,0,baixo,baixa,0,moderado,0,0,1,0,95.8,0,0,0,baixo,1,71.5,1.57,29.00726195788876,0
+luiza rodrigues,45,masculino,0,0,moderado,baixa,1,alto,0,0,0,0,98.3,0,0,0,alto,1,63.1,1.81,19.260706327645675,0
+rafael ribeiro,42,masculino,0,0,baixo,baixa,0,alto,0,0,0,1,93.7,0,0,0,moderado,0,68.8,1.69,24.08879240922937,0
+maria freitas,20,feminino,0,0,moderado,alta,1,baixo,0,0,0,0,96.95772442588726,0,0,0,baixo,0,88.0,1.77,28.088991030674453,0
+fernanda araújo,25,não declarado,0,0,baixo,média,0,baixo,0,0,0,0,98.3,0,1,0,moderado,0,89.4,1.5,39.733333333333334,0
+maria oliveira,51,masculino,0,0,baixo,baixa,0,moderado,0,0,0,0,93.8,0,0,0,baixo,0,91.8,1.56,37.721893491124256,0
+camila costa,56,feminino,1,0,baixo,alta,1,alto,0,0,1,0,101.7,0,0,0,baixo,0,88.0,1.59,34.80874965389027,1
+paula silva,38,feminino,0,0,alto,baixa,0,baixo,0,0,1,0,96.6,0,0,0,alto,0,82.6,1.82,24.936601859678778,0
+larissa moreira,23,feminino,0,0,baixo,baixa,0,baixo,1,0,0,1,97.8,0,0,0,alto,0,89.3,1.82,26.959304431831903,0
+tiago nunes,66,fem,1,0,alto,média,0,moderado,0,0,0,0,93.3,0,0,1,baixo,0,75.9,1.86,21.938952480055498,1
+luiza silva,78,feminino,0,0,alto,baixa,0,moderado,0,0,0,0,98.6,0,0,0,baixo,0,74.2,1.61,28.62543883337834,0
+joão ribeiro,58,não declarado,0,0,alto,baixa,0,moderado,0,0,0,1,100.1,0,0,0,moderado,0,92.4,1.77,29.493440582208176,0
+andré rodrigues,54,feminino,0,0,moderado,média,0,moderado,0,0,0,0,98.1,0,0,0,baixo,0,96.0,1.73,32.075912994086,0
+luiza souza,47,feminino,0,0,baixo,baixa,0,baixo,0,1,0,1,97.4,0,0,0,moderado,0,111.9,1.71,38.26818508258952,0
+rafael moreira,56,masculino,1,0,baixo,média,0,alto,1,1,1,0,98.6,0,0,0,alto,0,84.8,1.76,27.376033057851238,1
+mariana dias,46,outro,0,0,moderado,média,0,moderado,0,0,0,0,96.9,1,0,0,alto,0,84.1,1.44,40.557484567901234,0
+beatriz pereira,51,feminino,0,0,moderado,média,0,moderado,0,0,0,0,94.6,0,0,1,baixo,0,90.3,1.53,38.57490708701781,0
+beatriz dias,24,feminino,0,0,moderado,alta,0,alto,0,0,0,nan,95.5,0,0,0,alto,1,68.7,1.53,29.347686787133156,0
+tiago dias,56,feminino,0,0,baixo,baixa,0,moderado,0,0,1,0,96.95772442588726,0,0,0,baixo,0,75.2,1.69,26.329610307762337,0
+larissa moreira,58,não declarado,0,0,baixo,alta,0,moderado,0,1,0,0,99.4,0,0,1,baixo,1,88.8,1.66,32.22528668892437,1
+maria oliveira,37,feminino,0,0,moderado,baixa,0,alto,0,0,0,0,94.7,0,0,0,moderado,0,107.8,1.7055828220858895,37.05724545843288,0
+joão nunes,53,feminino,1,0,moderado,média,0,moderado,1,0,0,0,101.4,0,0,0,moderado,0,54.8,1.77,17.491780778192727,0
+carolina costa,59,feminino,1,0,moderado,média,0,baixo,0,0,1,0,96.95772442588726,0,0,0,moderado,0,86.3,1.83,25.76965570784436,1
+luiza gomes,75,masculino,1,0,baixo,baixa,1,baixo,0,0,0,0,96.9,0,1,0,moderado,0,75.7,1.81,23.106742773419615,1
+tiago lima,31,feminino,0,0,moderado,média,1,moderado,0,0,0,0,95.3,0,0,1,baixo,0,79.6,1.7,27.54325259515571,0
+pedro rodrigues,49,outro,0,0,baixo,alta,0,moderado,0,1,1,1,95.3,0,0,1,moderado,0,86.8,1.75,28.34285714285714,0
+tiago souza,39,feminino,1,0,moderado,média,0,baixo,0,0,0,0,94.8,0,0,0,baixo,0,79.1,1.79,24.687119627976653,0
+lucas pereira,52,outro,1,0,moderado,média,0,moderado,0,0,0,0,100.0,0,0,1,baixo,0,102.9,1.82,31.06508875739645,0
+larissa gomes,53,feminino,0,0,baixo,baixa,0,moderado,1,0,0,0,99.1,0,0,1,moderado,0,95.5,1.67,34.24289146258381,0
+mariana dias,70,outro,1,0,moderado,baixa,0,moderado,0,0,0,0,95.3,0,0,0,baixo,0,78.2994918699187,1.67,28.075403158922406,0
+fernanda ferreira,23,masculino,0,0,baixo,média,1,baixo,0,0,0,0,97.8,0,0,0,moderado,0,94.6,1.79,29.52467151462189,0
+tiago martins,61,masculino,0,0,moderado,alta,0,alto,0,1,0,0,96.7,0,0,0,moderado,0,73.4,1.75,23.967346938775513,1
+luiza freitas,38,feminino,0,0,baixo,alta,0,moderado,0,0,0,0,100.2,0,0,0,baixo,0,52.6,1.86,15.204069834662965,0
+tiago souza,34,masculino,1,0,moderado,média,0,alto,0,0,1,0,106.4,0,0,0,moderado,1,75.1,1.92,20.372178819444443,1
+gabriel oliveira,20,feminino,0,0,baixo,média,0,moderado,0,0,0,0,98.1,0,0,0,moderado,0,82.9,1.55,34.505723204994794,0
+luiza oliveira,32,feminino,0,0,moderado,média,0,moderado,1,0,1,1,96.95772442588726,0,0,0,baixo,0,90.9,1.64,33.79684711481262,0
+felipe silva,51,feminino,1,0,moderado,média,0,moderado,0,0,0,1,97.3,0,0,0,baixo,0,76.3,1.49,34.367821269312195,0
+pedro rodrigues,53,masc,0,0,moderado,média,0,baixo,1,0,1,0,94.1,0,0,0,alto,0,73.7,1.68,26.112528344671208,0
+joão santos,64,outro,0,0,moderado,baixa,0,moderado,1,0,0,0,94.5,0,0,0,baixo,0,75.4,1.71,25.785711842960232,0
+luiza barbosa,36,outro,0,0,baixo,média,0,moderado,0,1,0,0,99.0,0,0,0,baixo,0,35.3,1.57,14.321067791796827,0
+beatriz moreira,54,não declarado,0,0,moderado,baixa,0,alto,0,1,0,0,97.8,0,0,0,moderado,0,83.5,1.75,27.26530612244898,0
+tiago alves,61,masc,0,0,baixo,baixa,0,moderado,0,0,0,0,96.6,0,1,0,alto,0,76.7,1.68,27.175453514739235,0
+maria ferreira,66,fem,0,0,alto,baixa,0,baixo,0,1,1,0,93.9,0,0,0,alto,0,66.5,1.6,25.976562499999996,0
+ana oliveira,33,outro,1,0,baixo,média,1,moderado,0,1,0,0,96.1,0,0,1,baixo,0,62.6,1.79,19.53746761961237,1
+luiza oliveira,60,masc,1,0,moderado,baixa,0,alto,0,1,0,0,97.1,0,0,0,moderado,0,52.3,1.65,19.21028466483012,1
+gabriel freitas,46,não declarado,0,0,moderado,baixa,0,moderado,0,0,0,0,94.0,0,1,0,baixo,1,68.0,2.1,15.419501133786847,0
+joão barbosa,63,masculino,0,0,alto,baixa,0,baixo,0,0,0,0,101.7,0,0,0,moderado,0,78.0,1.82,23.54788069073783,0
+carolina barbosa,36,masc,0,0,alto,alta,0,moderado,0,0,1,0,96.8,0,0,1,moderado,0,67.2,1.65,24.683195592286506,0
+gabriel costa,75,outro,0,0,alto,baixa,0,alto,1,1,1,0,96.8,0,0,0,moderado,0,91.1,1.56,37.43425378040762,0
+paula moreira,43,fem,0,0,moderado,alta,1,baixo,0,0,1,0,92.7,1,0,1,alto,0,54.1,1.7,18.719723183391007,0
+fernanda alves,49,outro,0,0,baixo,média,0,baixo,0,0,1,0,95.6,0,0,0,baixo,0,92.4,1.85,26.99780861943024,0
+tiago moreira,62,masculino,0,0,moderado,média,0,baixo,0,0,0,nan,95.8,0,0,1,moderado,0,65.2,1.81,19.901712401941335,0
+maria rodrigues 843,40,masc,1,0,alto,média,0,baixo,0,0,0,0,99.1,0,0,0,baixo,0,68.1,1.72,23.019199567333693,0
+fernanda freitas,48,masc,0,1,baixo,média,0,moderado,0,0,0,0,99.8,0,0,0,baixo,0,82.1,1.68,29.08871882086168,0
+joão costa,43,fem,0,0,moderado,média,0,alto,0,0,0,0,98.2,0,1,0,baixo,0,79.6,1.66,28.886630860792568,0
+pedro araújo,41,fem,1,0,alto,baixa,1,moderado,0,1,0,0,99.3,0,0,0,baixo,0,83.0,1.66,30.120481927710845,0
+gustavo araújo,38,fem,0,0,moderado,baixa,0,alto,0,0,0,1,100.1,0,0,0,baixo,0,51.0,1.72,17.239048134126556,0
+pedro moreira,46,feminino,0,0,baixo,alta,0,moderado,0,1,0,0,99.9,0,1,0,baixo,0,73.5,1.83,21.947505150945084,0
+gustavo rodrigues,60,masculino,0,0,baixo,baixa,0,baixo,0,0,0,1,95.6,0,1,0,alto,1,63.1,1.69,22.09306396834845,1
+rafael moura,54,feminino,0,0,moderado,alta,0,moderado,0,0,0,0,96.6,0,0,0,moderado,0,73.2,1.76,23.63119834710744,0
+rafael dias,48,masc,0,1,baixo,baixa,0,moderado,0,0,0,0,99.0,0,0,1,baixo,0,64.2,1.61,24.767562979823307,0
+pedro rodrigues,48,outro,0,0,alto,média,0,moderado,0,1,0,0,94.0,0,0,1,baixo,1,85.4,1.67,30.621391946645634,1
+tiago alves,66,outro,0,0,baixo,baixa,0,baixo,0,0,0,0,96.3,0,0,0,baixo,0,101.5,1.76,32.76730371900827,0
+andré barbosa,40,não declarado,0,1,moderado,baixa,0,moderado,0,0,0,0,92.7,0,0,0,moderado,0,86.7,1.68,30.718537414965994,0
+tiago alves,53,masc,0,0,alto,alta,0,moderado,0,0,0,0,95.7,0,0,1,baixo,1,89.0,1.82,26.86873565994445,0
+gustavo santos,57,masculino,1,0,alto,média,0,baixo,0,0,0,0,98.6,0,1,1,baixo,1,99.5,1.72,33.63304488912926,1
+ana moura,28,masculino,0,0,baixo,média,0,moderado,0,0,0,0,94.4,0,0,0,baixo,0,73.2,1.77,23.36493344824284,0
+carlos costa,47,outro,0,0,baixo,baixa,0,alto,0,0,0,0,99.9,0,0,0,baixo,0,84.9,1.79,26.497300333947134,0
+pedro barbosa,34,masculino,1,0,moderado,baixa,0,alto,0,0,0,1,96.4,0,0,0,alto,0,91.1,1.74,30.08984013740256,0
+carolina ribeiro,60,masc,1,0,baixo,baixa,1,baixo,0,1,0,1,96.1,0,0,0,baixo,0,90.8,1.75,29.648979591836735,1
+pedro martins,51,feminino,1,0,alto,média,0,moderado,0,0,1,0,96.95772442588726,0,0,0,baixo,0,74.3,1.61,28.664017591913886,0
+rafael nunes,23,masculino,0,0,baixo,média,0,moderado,0,0,0,0,97.8,0,0,0,alto,0,72.8,1.77,23.23725621628523,0
+carolina dias,44,outro,0,0,moderado,baixa,0,moderado,1,0,1,0,100.7,0,0,0,baixo,0,83.5,1.75,27.26530612244898,0
+ana barbosa,18,masc,0,0,moderado,baixa,1,moderado,0,0,0,0,98.5,0,0,0,baixo,0,67.0,1.48,30.58802045288532,0
+ana dias,30,fem,0,0,moderado,média,0,baixo,0,0,0,0,97.1,0,0,0,baixo,0,81.7,1.62,31.13092516384697,0
+paula rodrigues,73,fem,0,0,baixo,baixa,0,moderado,0,0,0,0,96.0,0,1,0,moderado,0,91.6,1.76,29.571280991735538,0
+gustavo araújo,61,não declarado,1,0,moderado,baixa,0,moderado,0,0,0,0,97.2,1,0,1,moderado,0,73.4,1.53,31.35546157460806,1
+maria pereira,81,masculino,0,0,baixo,média,0,alto,0,0,0,0,97.6,0,0,0,moderado,0,69.5,1.76,22.43672520661157,0
+carolina freitas,45,outro,0,0,alto,média,0,moderado,0,0,1,1,98.8,0,0,0,moderado,0,78.2994918699187,1.71,26.777296217611813,0
+maria martins,52,feminino,1,0,moderado,média,0,alto,1,0,1,0,96.6,0,0,0,baixo,0,65.9,1.63,24.803342240957512,0
+mariana santos,44,fem,0,0,alto,alta,0,moderado,0,1,0,0,97.6,0,1,0,moderado,0,84.8,1.85,24.777209642074503,1
+beatriz silva,55,fem,0,0,baixo,baixa,0,moderado,0,0,0,1,96.4,0,0,1,baixo,0,86.7,1.76,27.989411157024794,0
+fernanda ribeiro,38,masc,0,0,moderado,média,0,alto,0,0,0,0,94.6,0,0,0,moderado,0,96.7,1.61,37.30565950387716,0
+mariana lima,32,não declarado,0,0,baixo,baixa,0,moderado,0,0,0,0,99.1,0,0,1,moderado,0,76.7,1.89,21.47196327090507,0
+gabriel ribeiro,31,masc,0,0,moderado,baixa,0,moderado,0,1,1,0,96.6,0,1,1,baixo,0,95.7,1.67,34.31460432428556,0
+carlos moura,37,outro,0,0,moderado,média,0,moderado,0,0,0,0,97.9,0,0,0,baixo,1,65.8,1.65,24.168962350780536,0
+larissa nunes,56,masculino,0,0,alto,média,0,moderado,0,1,0,0,101.2,0,0,0,moderado,0,95.7,1.72,32.34856679286101,0
+andré pereira,67,outro,0,0,baixo,baixa,0,baixo,0,1,1,0,92.8,1,0,0,baixo,0,85.1,1.68,30.151643990929706,1
+lucas nunes,76,masculino,0,0,baixo,baixa,0,baixo,0,1,0,0,96.0,0,1,0,moderado,1,83.8,1.62,31.9311080627953,1
+luiza costa,44,feminino,0,0,moderado,baixa,0,moderado,0,0,0,0,94.2,0,0,0,alto,1,107.7,1.63,40.53596296435696,0
+maria alves,51,masculino,0,0,baixo,média,0,moderado,0,0,0,0,94.3,0,0,0,moderado,0,80.4,1.67,28.828570404101978,0
+beatriz costa,54,não declarado,0,0,moderado,baixa,1,alto,0,1,0,0,96.2,0,0,0,baixo,0,78.2994918699187,1.66,28.414679877311187,0
+andré martins,33,masc,0,0,moderado,baixa,0,moderado,0,1,1,0,96.95772442588726,0,0,0,baixo,0,66.0,1.75,21.551020408163264,0
+joão alves,54,não declarado,1,0,alto,alta,0,moderado,0,0,0,0,100.0,0,0,1,baixo,0,64.8,1.69,22.688281222646268,1
+luiza araújo,36,feminino,0,0,baixo,baixa,0,alto,0,0,1,0,93.0,0,1,1,moderado,0,74.2,1.63,27.927283676465056,0
+beatriz pereira,56,fem,0,0,moderado,baixa,0,alto,0,0,1,0,96.5,0,0,1,moderado,0,68.7,1.64,25.542831647828677,0
+pedro ferreira,55,masculino,0,0,baixo,baixa,0,moderado,0,0,0,0,96.4,0,0,0,moderado,0,85.1,1.74,28.108072400581317,0
+luiza dias,50,feminino,0,0,moderado,média,0,baixo,0,0,0,0,100.3,0,0,0,moderado,0,91.7,1.7,31.730103806228378,0
+mariana alves,77,fem,0,1,baixo,média,0,moderado,0,0,0,0,97.0,0,0,0,moderado,0,84.4,1.72,28.528934559221206,0
+camila nunes,38,masculino,0,0,baixo,baixa,0,moderado,0,0,0,0,96.7,0,0,0,baixo,1,108.5,1.77,34.63244916850203,0
+larissa lima,55,masculino,1,0,moderado,baixa,0,baixo,0,0,0,1,95.3,0,0,0,baixo,0,81.7,1.86,23.615446872470805,0
+mariana ribeiro,51,fem,0,0,baixo,média,0,baixo,0,1,0,0,97.3,0,0,0,moderado,0,84.8,1.65,31.14784205693297,0
+rafael barbosa,18,feminino,0,0,moderado,média,0,baixo,0,1,0,0,96.3,0,0,0,baixo,0,91.5,1.67,32.80863422854889,0
+felipe ribeiro,67,fem,0,0,moderado,média,0,moderado,0,1,0,0,100.0,0,1,1,moderado,0,83.8,1.97,21.59292947512175,1
+andré freitas,28,masc,1,0,alto,alta,0,baixo,0,1,0,0,96.4,0,0,0,moderado,0,73.7,1.7055828220858895,25.335055568520442,1
+joão nunes,55,feminino,0,0,baixo,baixa,0,baixo,0,0,0,0,96.2,0,0,0,baixo,0,75.1,1.69,26.294597528097757,0
+paula freitas,32,fem,1,0,baixo,alta,0,baixo,0,0,0,0,96.1,0,0,0,moderado,0,80.7,1.82,24.36299963772491,0
+ana araújo,42,fem,1,0,baixo,alta,0,moderado,0,0,1,0,93.0,0,0,0,moderado,0,71.1,1.71,24.315173899661435,1
+gabriel ribeiro,36,fem,0,0,baixo,média,1,baixo,0,0,0,0,97.4,0,1,0,moderado,0,84.0,1.76,27.117768595041323,0
+carlos lima,40,feminino,0,0,alto,baixa,0,moderado,0,0,1,1,99.4,0,1,1,moderado,0,60.9,1.74,20.114942528735632,0
+maria freitas,54,feminino,0,0,baixo,baixa,1,baixo,0,0,0,0,98.8,0,0,0,alto,0,71.7,1.72,24.236073553272043,0
+lucas silva,47,fem,1,0,moderado,baixa,0,baixo,0,1,0,0,94.8,0,0,0,moderado,0,87.4,1.87,24.993565729646257,0
+rafael barbosa,60,masculino,0,1,baixo,baixa,0,alto,0,0,0,0,98.4,0,0,1,alto,0,73.6,1.77,23.49261068020045,0
+tiago dias,65,feminino,0,0,baixo,baixa,0,moderado,0,0,1,0,95.4,0,0,0,moderado,0,48.2,1.75,15.738775510204082,0
+mariana moreira,57,não declarado,0,1,moderado,alta,0,alto,0,0,0,0,97.6,0,1,1,baixo,0,51.2,1.74,16.911084687541287,1
+beatriz nunes,70,masculino,1,0,baixo,média,0,baixo,0,0,0,0,97.9,0,0,0,alto,0,75.8,1.47,35.07797676893887,1
+paula pereira,48,não declarado,0,0,baixo,baixa,0,alto,0,0,0,0,96.2,0,0,0,moderado,0,72.6,1.65,26.666666666666668,0
+lucas ribeiro,50,masculino,0,0,moderado,baixa,0,baixo,1,1,0,0,98.1,0,1,0,baixo,1,96.8,1.88,27.387958352195565,1
+gabriel oliveira,40,feminino,1,0,moderado,média,0,baixo,0,0,0,0,96.5,0,0,0,moderado,0,38.3,1.67,13.733013015884397,0
+fernanda barbosa,44,feminino,0,1,moderado,baixa,1,moderado,0,0,0,0,99.8,0,0,1,moderado,0,89.9,1.7,31.107266435986165,0
+beatriz ribeiro,29,não declarado,0,0,moderado,baixa,0,baixo,0,0,0,0,96.7,0,0,0,moderado,0,107.0,1.63,40.27249802401295,0
+ana araújo,53,masc,0,1,baixo,baixa,1,moderado,0,0,0,0,99.3,0,0,0,baixo,0,55.2,1.75,18.024489795918367,0
+larissa costa,52,outro,0,0,baixo,média,0,baixo,0,0,1,0,97.4,0,0,0,alto,1,94.0,1.77,30.00414951003862,0
+andré ferreira,55,masculino,0,0,baixo,alta,0,moderado,0,0,0,0,98.6,0,0,1,alto,0,76.1,1.63,28.642402800255937,0
+lucas costa,68,não declarado,0,0,baixo,média,0,alto,0,0,1,0,96.4,0,0,1,moderado,0,54.5,1.77,17.39602285422452,0
+lucas gomes,62,masculino,0,0,baixo,baixa,0,moderado,0,0,0,0,100.2,1,0,0,moderado,0,88.8,1.72,30.01622498647918,0
+pedro araújo,40,masculino,0,0,moderado,baixa,0,moderado,0,0,0,0,97.2,0,1,0,moderado,0,103.4,1.78,32.634768337331145,0
+gabriel santos 918,42,fem,0,0,moderado,média,0,moderado,0,0,1,0,94.3,0,0,0,moderado,0,57.6,1.74,19.024970273483948,0
+carlos pereira,18,masculino,1,0,moderado,baixa,0,alto,0,0,0,0,95.2,0,1,0,baixo,0,95.5,1.68,33.836451247165535,1
+larissa oliveira,31,outro,0,0,alto,baixa,0,moderado,0,0,0,0,95.1,0,0,0,moderado,0,83.9,1.64,31.194229625223088,0
+camila martins,33,não declarado,0,0,moderado,média,0,alto,0,0,0,0,98.2,0,1,0,moderado,0,76.7,1.69,26.854802002731002,0
+gustavo silva,45,feminino,0,0,baixo,baixa,1,moderado,0,0,0,0,95.0,0,0,0,baixo,0,74.3,1.84,21.945888468809073,0
+beatriz silva,55,feminino,0,0,baixo,baixa,0,moderado,0,0,1,0,101.1,0,0,0,moderado,0,57.2,1.81,17.459784499862643,0
+joão silva,18,feminino,0,0,baixo,baixa,0,alto,0,0,1,0,96.3,0,0,0,baixo,0,56.2,1.78,17.737659386441106,0
+mariana rodrigues,40,masc,0,0,moderado,média,0,moderado,0,0,0,0,97.5,1,0,0,alto,0,56.4,1.81,17.21559170965477,0
+gustavo nunes,45,masculino,0,0,alto,baixa,0,alto,0,0,1,0,94.6,0,0,0,moderado,1,96.6,1.73,32.27638745029904,0
+pedro santos,69,fem,1,1,moderado,baixa,1,moderado,0,0,1,1,99.3,0,0,0,moderado,0,111.0,1.78,35.03345537179649,1
+felipe nunes,66,feminino,0,0,moderado,média,0,moderado,0,0,0,0,91.8,0,0,1,baixo,0,90.5,1.79,28.245061015573796,1
+camila lima,72,não declarado,0,0,moderado,baixa,0,moderado,0,0,1,0,96.8,0,0,0,moderado,0,75.8,1.57,30.75175463507647,0
+beatriz costa,76,outro,0,1,alto,média,1,moderado,0,0,0,0,99.8,0,0,0,baixo,0,108.9,1.65,40.00000000000001,0
+joão alves,61,masculino,1,0,alto,alta,0,baixo,0,1,0,0,95.0,0,0,0,moderado,0,113.1,1.63,42.56840678986789,1
+carlos silva,47,masculino,0,0,moderado,baixa,0,alto,0,0,0,0,99.1,0,0,1,moderado,0,78.0,1.68,27.636054421768712,0
+ana rodrigues,48,masculino,1,1,moderado,baixa,0,baixo,0,0,1,0,97.6,0,1,0,moderado,0,91.6,1.87,26.194629529011404,1
+gustavo ribeiro,49,masculino,0,0,baixo,média,0,baixo,0,1,0,0,95.6,0,0,0,moderado,0,88.9,1.62,33.87440938881268,0
+carolina santos,39,masculino,0,0,moderado,média,0,alto,0,0,0,0,92.9,0,0,0,baixo,0,76.8,1.72,25.959978366684695,0
+maria souza,65,outro,0,0,moderado,média,0,moderado,0,0,1,0,98.0,0,0,0,moderado,0,60.1,1.79,18.757217315314755,0
+ana moreira,46,masculino,0,0,baixo,alta,0,moderado,0,0,1,0,97.8,0,0,0,moderado,0,73.0,1.77,23.301094832264035,0
+carlos silva,43,masc,0,0,baixo,média,0,moderado,0,0,0,0,95.6,0,0,0,baixo,0,73.1,1.74,24.144536926938827,0
+andré ribeiro,46,masculino,0,0,baixo,baixa,0,moderado,0,0,1,0,98.7,0,0,0,moderado,0,84.6,1.86,24.453694068678455,0
+camila souza,26,masc,0,0,moderado,baixa,0,moderado,0,0,0,0,96.1,0,1,0,moderado,0,64.5,1.55,26.847034339229964,0
+fernanda souza,26,não declarado,0,1,alto,média,0,moderado,0,0,0,0,96.9,0,0,0,alto,0,78.3,1.7055828220858895,26.91634804633854,0
+carlos freitas,54,fem,1,0,baixo,baixa,0,baixo,1,1,0,0,96.2,0,0,1,alto,0,60.4,1.55,25.140478668054108,1
+andré costa,77,outro,1,1,moderado,baixa,0,baixo,0,0,1,0,92.4,0,0,0,baixo,0,67.3,1.67,24.1313779626376,1
+fernanda pereira,60,não declarado,1,0,alto,baixa,0,alto,0,0,0,0,98.1,0,0,0,moderado,0,69.7,1.77,22.247757668613744,0
+carlos araújo,46,masculino,0,0,moderado,alta,0,alto,1,0,0,0,93.9,0,0,0,alto,0,93.2,1.51,40.875400201745535,0
+joão oliveira,60,não declarado,0,1,baixo,baixa,0,baixo,0,0,0,0,97.3,0,0,0,baixo,1,66.8,1.66,24.241544491217883,0
+lucas oliveira,30,masc,1,0,moderado,baixa,0,moderado,0,0,0,0,97.5,0,0,0,alto,0,78.2994918699187,1.77,24.992655964096745,0
+ana ribeiro,45,não declarado,1,0,moderado,baixa,0,alto,0,0,0,0,97.0,0,0,0,baixo,0,68.8,1.66,24.96733923646393,0
+fernanda ribeiro,54,masc,0,0,moderado,baixa,0,alto,0,1,0,0,97.5,1,0,0,moderado,0,81.7,1.98,20.83971023364963,0
+luiza santos,18,feminino,0,0,baixo,média,0,baixo,0,0,0,0,92.2,0,0,0,baixo,0,70.6,1.82,21.31385098418065,0
+gabriel barbosa,38,masc,0,0,moderado,média,0,moderado,0,0,0,0,97.7,0,1,0,moderado,0,87.9,1.81,26.83068282408962,0
+maria silva,40,masculino,0,0,moderado,média,0,moderado,0,0,0,0,94.6,0,0,0,baixo,0,94.4,1.8,29.135802469135804,0
+gabriel rodrigues,37,fem,0,0,moderado,baixa,0,moderado,0,0,0,0,97.5,1,0,1,moderado,0,70.1,1.8,21.6358024691358,0
+pedro rodrigues,63,masculino,0,0,moderado,alta,0,moderado,0,0,0,1,95.4,0,0,0,baixo,0,77.5,1.89,21.69592116682064,0
+ana martins,60,não declarado,1,0,baixo,baixa,0,moderado,0,0,0,0,97.7,0,0,0,moderado,0,109.7,1.75,35.820408163265306,1
+rafael martins,44,não declarado,0,0,alto,média,0,baixo,1,0,0,0,96.7,0,0,0,baixo,0,68.7,1.78,21.682868324706476,0
+camila pereira,49,masculino,1,1,moderado,média,1,moderado,1,1,0,1,96.6,0,0,0,baixo,0,69.2,1.62,26.367931717725952,1
+luiza souza,46,não declarado,0,0,moderado,baixa,0,baixo,0,0,0,0,98.9,0,0,1,baixo,0,98.2,1.7055828220858895,33.75715680907337,0
+tiago moura,37,outro,1,0,baixo,média,0,moderado,1,0,0,0,94.8,0,0,0,baixo,0,40.2,1.73,13.431788566273514,1
+beatriz freitas,36,masculino,0,0,moderado,baixa,1,moderado,0,0,0,1,98.1,0,0,1,alto,0,63.0,1.84,18.608223062381853,0
+larissa araújo,84,outro,0,0,moderado,média,0,moderado,0,1,0,0,96.95772442588726,0,0,0,baixo,0,75.2,1.72,25.419145484045433,0
+felipe santos,75,feminino,1,0,baixo,baixa,0,moderado,0,0,0,0,95.8,0,0,0,alto,1,109.7,1.75,35.820408163265306,1
+joão nunes,40,feminino,1,0,baixo,baixa,0,alto,0,0,1,0,95.6,0,0,1,moderado,0,73.9,1.74,24.408772625181662,0
+gabriel nunes,27,masc,0,0,moderado,média,0,moderado,0,0,0,0,98.0,0,0,1,alto,0,87.6,1.78,27.648024239363714,0
+camila alves,53,outro,0,0,moderado,média,0,moderado,0,0,0,0,96.95772442588726,0,0,1,baixo,1,93.7,1.73,31.30742757860269,0
+lucas moreira,41,masculino,1,0,baixo,baixa,0,moderado,1,0,0,0,95.2,0,0,0,baixo,0,108.4,1.69,37.95385315640209,0
+joão pereira,18,não declarado,0,0,baixo,média,0,moderado,1,0,1,0,97.0,0,1,1,baixo,0,77.9,1.58,31.204935106553435,0
+larissa pereira,40,não declarado,0,0,moderado,média,0,moderado,0,0,0,0,101.2,0,0,1,alto,0,83.8,1.62,31.9311080627953,0
+gabriel alves,40,fem,1,0,moderado,alta,0,baixo,0,0,1,1,97.8,0,0,0,moderado,0,80.8,1.69,28.29032596897868,0
+maria nunes,57,outro,0,0,baixo,média,0,alto,0,0,1,0,96.9,0,1,0,baixo,0,65.9,1.86,19.048444906925656,0
+gustavo alves,49,não declarado,1,0,baixo,alta,0,moderado,0,0,0,0,96.5,0,0,1,baixo,0,95.8,1.83,28.606408074293046,0
+tiago moura,55,não declarado,0,0,moderado,média,0,baixo,0,0,0,0,97.0,0,0,0,baixo,0,91.5,1.52,39.60353185595568,0
+felipe gomes,52,não declarado,1,1,baixo,média,1,alto,0,0,1,0,100.3,0,0,0,baixo,0,90.1,1.71,30.812899695632847,1
+joão souza,47,masculino,1,0,baixo,média,0,moderado,0,0,0,0,97.8,0,0,0,moderado,0,54.5,1.71,18.63821346739168,0
+paula moreira 975,42,masc,0,0,moderado,média,0,alto,0,0,0,1,94.7,0,0,0,alto,1,63.4,1.71,21.68188502445197,0
+carolina freitas,46,feminino,0,0,baixo,baixa,0,alto,0,0,0,0,95.3,0,0,0,moderado,0,64.6,1.81,19.718567809285428,0
+felipe gomes,39,masculino,1,0,baixo,baixa,0,moderado,0,0,0,0,98.9,0,0,0,alto,0,76.4,1.63,28.75531634611766,0
+mariana moura,45,não declarado,1,0,baixo,média,0,moderado,0,0,0,0,97.9,0,0,0,moderado,0,91.1,1.77,29.078489578345938,0
+beatriz moura,19,feminino,1,0,moderado,baixa,1,moderado,0,0,0,nan,99.3,0,0,0,baixo,1,115.7,1.64,43.017549077929814,1
+joão gomes,37,fem,0,1,moderado,alta,0,moderado,0,0,0,0,95.1,0,0,0,moderado,0,61.9,1.66,22.463347365365074,0
+paula nunes,24,masc,0,0,baixo,alta,0,moderado,0,0,0,0,93.8,0,0,0,moderado,0,75.1,1.73,25.09271943599853,0
+maria pereira,76,outro,1,0,alto,alta,0,moderado,0,0,1,0,94.3,0,1,1,baixo,0,50.6,1.73,16.906679140632832,1
+ana ribeiro,49,feminino,0,0,baixo,média,0,baixo,0,0,1,0,98.2,0,0,0,moderado,0,74.9,1.65,27.511478420569336,0
+ana martins,57,feminino,1,0,moderado,alta,0,alto,0,0,1,0,102.4,0,1,0,alto,0,70.9,1.73,23.689398242507266,1
+gabriel souza,80,masculino,0,0,baixo,baixa,0,moderado,0,1,0,0,94.3,0,0,0,baixo,1,76.5,1.9,21.191135734072024,1
+tiago souza,24,não declarado,0,0,baixo,alta,0,moderado,0,0,0,1,95.6,0,1,0,baixo,0,84.6,1.7,29.273356401384085,0
+felipe dias,45,masculino,0,0,alto,baixa,0,alto,0,0,1,0,97.6,0,0,0,moderado,0,67.1,1.61,25.886346977354265,0
+larissa silva,43,masculino,0,0,baixo,baixa,0,alto,0,0,0,0,98.8,0,0,0,moderado,0,51.0,1.71,17.441263978660103,0
+paula barbosa,49,não declarado,0,0,alto,média,1,baixo,0,1,0,1,98.8,0,0,0,baixo,0,90.2,1.74,29.792574976879376,0
+andré pereira,62,masculino,0,0,baixo,média,0,moderado,0,0,1,0,93.0,0,0,0,moderado,0,79.8,1.59,31.56520707250504,0
+lucas souza,54,feminino,0,0,moderado,média,0,moderado,0,0,0,0,95.8,0,0,0,baixo,0,99.4,2.0,24.85,0
+andré martins,62,feminino,0,0,moderado,alta,0,baixo,0,0,0,0,94.1,0,0,1,moderado,1,88.5,1.55,36.836628511966694,1
+rafael martins,52,fem,0,0,baixo,média,0,moderado,0,1,0,0,97.8,0,0,0,alto,0,90.8,1.82,27.41214829126917,0
+felipe lima,36,fem,1,0,alto,média,0,moderado,0,0,0,0,96.6,0,0,0,baixo,0,65.4,1.67,23.450105776471013,0
+paula gomes,30,feminino,1,0,moderado,média,0,alto,0,0,1,1,99.7,0,0,0,moderado,0,59.7,1.63,22.469795626481993,0
+carlos costa,62,fem,1,0,alto,média,0,moderado,0,1,0,1,99.3,0,1,0,baixo,0,49.9,1.84,14.738894139886577,1
+beatriz lima,43,masculino,1,0,moderado,média,0,alto,0,0,0,0,96.7,0,0,0,baixo,0,111.0,1.63,41.77801196883586,0
+andré moreira,26,feminino,1,0,baixo,alta,0,moderado,0,0,0,0,96.8,0,0,0,baixo,0,90.3,1.81,27.563261194713224,0
+ana rodrigues,29,outro,1,0,baixo,alta,1,alto,0,0,1,0,94.3,0,0,1,alto,0,107.5,1.59,42.522052134013684,1
+paula ferreira,61,outro,1,0,moderado,baixa,0,moderado,0,0,0,0,97.5,0,0,1,baixo,0,74.3,1.6,29.023437499999993,0

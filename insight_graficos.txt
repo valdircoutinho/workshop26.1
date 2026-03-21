@@ -1,0 +1,17 @@
+1. DISPERSÃO (IDADE vs IMC vs RISCO)
+Insight:
+Observa-se que pacientes com maior idade tendem a apresentar maior concentração de risco de câncer de pulmão. No entanto, devido à presença de valores inconsistentes no IMC, a análise dessa variável deve ser interpretada com cautela.
+
+2. DOENÇA PULMONAR (BARRAS)
+Insight:
+A maioria dos pacientes não apresenta doença pulmonar, porém uma parcela significativa possui essa condição, o que pode contribuir diretamente para o aumento do risco de câncer de pulmão.
+
+3. IMC POR SEXO
+Insight:
+A média de IMC varia entre os sexos, indicando possíveis diferenças nos padrões de saúde corporal. No entanto, a presença de categorias como "outro" e "não declarado" sugere a necessidade de melhor padronização dos dados.
+
+4. GRÁFICO DE PIZZA (IDADE vs RISCO)
+Insight:
+A distribuição indica que a idade média dos pacientes está concentrada em uma faixa intermediária, sendo um fator relevante na análise do risco de câncer de pulmão.
+
+

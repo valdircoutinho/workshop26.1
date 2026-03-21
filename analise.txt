@@ -1,0 +1,32 @@
+ANÁLISE DAS CONSULTAS – SISTEMA VELOZCAR
+
+Fizemos uma análise das consultas realizadas no banco de dados da concessionária VelozCar. O objetivo era obter informações importantes sobre clientes, funcionários, veículos, aluguéis, pagamentos e manutenções.
+
+Na tabela de clientes, conseguimos ver quantos clientes estão cadastrados por status e por endereço. Isso ajuda a entender como os clientes estão distribuídos e a encontrar regiões com mais clientes.
+
+Analisamos também os funcionários e descobrimos a média salarial por cargo. Isso ajuda a avaliar os custos da empresa. Além disso, vimos quantos funcionários estão ativos, o que ajuda no controle interno da equipe.
+
+Na tabela de veículos, as consultas mostraram quantos veículos estão disponíveis, alugados ou em manutenção. Isso é importante para controlar a frota de veículos. Também analisamos a média do valor da diária por cor, o que ajuda a encontrar padrões de preços.
+
+Sobre os aluguéis, conseguimos ver quantos contratos estão ativos, finalizados ou atrasados. Também analisamos quanto cada veículo gera em faturamento, o que ajuda a encontrar os veículos mais rentáveis.
+
+Na tabela de pagamentos, analisamos quanto é recebido por método de pagamento, como pix, cartão e boleto. Também vimos quais pagamentos estão pendentes, o que ajuda a controlar a inadimplência.
+
+Na análise de manutenção, identificamos quantas manutenções preventivas e corretivas foram feitas, além do custo total por status. Isso ajuda a gerenciar os gastos com manutenção da frota.
+
+As operações de JOIN ajudaram a integrar dados de diferentes tabelas. Com isso, conseguimos ver informações completas sobre os aluguéis, como os veículos envolvidos e os valores pagos. Isso facilita entender como o sistema funciona.
+
+INSIGHTS OBTIDOS
+
+*   Identificamos os veículos mais rentáveis com base no faturamento.
+*   Controlamos pagamentos pendentes, ajudando a reduzir a inadimplência.
+
+*   Fizemos uma melhor gestão da frota ao identificar veículos disponíveis e em manutenção.
+
+*   Analisamos os custos com funcionários através da média salarial.
+
+*   Apoiamos a tomada de decisão sobre preços e disponibilidade dos veículos.
+
+CONCLUSÃO
+
+As consultas realizadas dão uma visão clara e organizada das informações do sistema. Isso ajuda na gestão da concessionária. Com esses dados, podemos tomar decisões mais estratégicas, reduzir erros e melhorar os processos internos.
